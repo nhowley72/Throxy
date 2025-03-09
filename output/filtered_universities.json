@@ -1,0 +1,6308 @@
+[
+  {
+    "name": "Instituto de Enseñanza Superior del Ejército",
+    "domain": "www.iese.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Instituto Nacional de Educación Física \"General Manuel Belgrano\"",
+    "domain": "www.unlu.edu.ar/Belgrano.htm",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Instituto Tecnológico de Buenos Aires",
+    "domain": "www.itba.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Instituto Universitario Aeronáutico",
+    "domain": "www.iua.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Instituto Universitario CEMA",
+    "domain": "www.cema.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Instituto Universitario de Ciencias de la Salud Fundación H.A. Barceló",
+    "domain": "www.barcelo.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Instituto Universitario de Estudios Navales y Marítimos",
+    "domain": "www.inun.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Instituto Universitario de la Policia Federal",
+    "domain": "www.universidad-policial.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Instituto Universitario Nacional del Arte",
+    "domain": "www.iuna.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad Abierta Interamericana",
+    "domain": "www.vaneduc.edu.ar/uai",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad Adventista del Plata",
+    "domain": "www.uapar.edu",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad Argentina de la Empresa",
+    "domain": "www.uade.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad Argentina \"John F. Kennedy\"",
+    "domain": "www.kennedy.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad Atlantida Argentina",
+    "domain": "www.atlantida.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad Austral Buenos Aires",
+    "domain": "www.austral.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad Autónoma de Entre Ríos",
+    "domain": "www.uader.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad Blas Pascal",
+    "domain": "www.ubp.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad CAECE, Buenos Aires",
+    "domain": "www.caece.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad Católica Argentina Santa Maria de los Buenos Aires",
+    "domain": "www.uca.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad Católica de Córdoba",
+    "domain": "www.uccor.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad Católica de Cuyo",
+    "domain": "www.uccuyo.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad Católica de La Plata",
+    "domain": "www.ucalp.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad Católica de Salta",
+    "domain": "www.ucasal.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad Católica de Santa Fé",
+    "domain": "www.ucsf.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad Católica de Santiago del Estero",
+    "domain": "www.ucse.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad Champagnat",
+    "domain": "www.uch.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad de Belgrano",
+    "domain": "www.ub.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad de Bologna - Representación en Buenos Aires",
+    "domain": "www.unibo.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad de Buenos Aires",
+    "domain": "www.uba.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad de Ciencias Empresariales y Sociales",
+    "domain": "www.uces.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad de Concepción del Uruguay",
+    "domain": "www.ucu.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad de Congreso",
+    "domain": "www.ucongres.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad de Flores - Buenos Aires",
+    "domain": "www.uflo.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad del Aconcagua",
+    "domain": "www.uda.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad de la Cuenca del Plata",
+    "domain": "www.ucp.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad de la Fraternidad de Agrupaciones Santo Tomas de Aquino (FASTA)",
+    "domain": "www.ufasta.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad de la Marina Mercante",
+    "domain": "www.udemm.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad del Centro Educativo Latinoamericano Rosario",
+    "domain": "www.ucel.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad del Cine - Buenos Aires",
+    "domain": "www.ucine.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad del Museo Social Argentino",
+    "domain": "www.umsa.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad del Norte \"Santo Tomás de Aquino\"",
+    "domain": "www.unsta.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad del Salvador",
+    "domain": "www.salvador.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad de Mendoza",
+    "domain": "www.um.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad de Morón",
+    "domain": "www.unimoron.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad de Palermo",
+    "domain": "www.palermo.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad de San Andres",
+    "domain": "www.udesa.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad Empresarial Siglio 21",
+    "domain": "www.uesiglo21.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad ISALUD",
+    "domain": "www.isalud.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad \"Juan Agustín Maza\"",
+    "domain": "www.umaza.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad Maimónides",
+    "domain": "www.maimonides.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad Nacional de Catamarca",
+    "domain": "www.unca.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad Nacional de Córdoba",
+    "domain": "www.unc.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad Nacional de Cuyo",
+    "domain": "www.uncu.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad Nacional de Entre Ríos",
+    "domain": "www.uner.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad Nacional de Formosa",
+    "domain": "www.unf.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad Nacional de General San Martín",
+    "domain": "www.unsam.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad Nacional de General Sarmiento",
+    "domain": "www.ungs.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad Nacional de Jujuy",
+    "domain": "www.unju.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad Nacional de La Matanza",
+    "domain": "www.unlam.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad Nacional de Lanus",
+    "domain": "www.unla.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad Nacional de La Pampa",
+    "domain": "www.unlpam.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad Nacional de la Patagonia Austral",
+    "domain": "www.unpa.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad Nacional de la Patagonia \"San Juan Bosco\"",
+    "domain": "www.unp.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad Nacional de La Plata",
+    "domain": "www.unlp.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad Nacional de La Rioja",
+    "domain": "www.unlar.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad Nacional del Centro de la Provincia de Buenos Aires",
+    "domain": "www.unicen.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad Nacional del Comahue",
+    "domain": "www.uncoma.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad Nacional del Littoral",
+    "domain": "www.unl.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad Nacional del Nordeste",
+    "domain": "www.unne.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad Nacional del Noroeste de la Provincia de Buenos Aires",
+    "domain": "www.unnoba.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad Nacional de Lomas de Zamora",
+    "domain": "www.unlz.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad Nacional del Sur",
+    "domain": "www.uns.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad Nacional de Luján",
+    "domain": "www.unlu.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad Nacional de Mar del Plata",
+    "domain": "www.mdp.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad Nacional de Misiones",
+    "domain": "www.unam.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad Nacional de Quilmes",
+    "domain": "www.unq.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad Nacional de Río Cuarto",
+    "domain": "www.unrc.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad Nacional de Rosario",
+    "domain": "www.unr.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad Nacional de Salta",
+    "domain": "www.unsa.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad Nacional de San Juan",
+    "domain": "www.unsj.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad Nacional de San Luis",
+    "domain": "www.unsl.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad Nacional de Santiago del Estero",
+    "domain": "www.unse.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad Nacional de Tres de Febrero",
+    "domain": "www.untref.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad Nacional de Tucumán",
+    "domain": "www.unt.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad Nacional de Villa María",
+    "domain": "www.unvm.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad Notarial Argentina",
+    "domain": "www.universidadnotarial.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad Tecnológica Nacional",
+    "domain": "www.utn.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Universidad Torcuato di Tella",
+    "domain": "www.utdt.edu",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Escuela Militar de Ingeniería",
+    "domain": "www.emi.edu.bo",
+    "country": "Bolivia",
+    "country_code": "BO"
+  },
+  {
+    "name": "Universidad Adventista de Bolivia",
+    "domain": "www.uab.edu.bo",
+    "country": "Bolivia",
+    "country_code": "BO"
+  },
+  {
+    "name": "Universidad Amazonica de Pando",
+    "domain": "www.uapnet.edu.bo",
+    "country": "Bolivia",
+    "country_code": "BO"
+  },
+  {
+    "name": "Universidad Andina Simón Bolivar",
+    "domain": "www.uasb.edu.bo",
+    "country": "Bolivia",
+    "country_code": "BO"
+  },
+  {
+    "name": "Universidad Autónoma del Beni \"José Ballivián\"",
+    "domain": "www.uabjb.edu.bo",
+    "country": "Bolivia",
+    "country_code": "BO"
+  },
+  {
+    "name": "Universidad Autónoma Gabriel René Moreno",
+    "domain": "www.uagrm.edu.bo",
+    "country": "Bolivia",
+    "country_code": "BO"
+  },
+  {
+    "name": "Universidad Autónoma Juan Misael Saracho",
+    "domain": "www.uajms.edu.bo",
+    "country": "Bolivia",
+    "country_code": "BO"
+  },
+  {
+    "name": "Universidad Autónoma Tomás Frías",
+    "domain": "www.uatf.edu.bo",
+    "country": "Bolivia",
+    "country_code": "BO"
+  },
+  {
+    "name": "Universidad Católica Boliviana, Cochabamba",
+    "domain": "www.ucbcba.edu.bo",
+    "country": "Bolivia",
+    "country_code": "BO"
+  },
+  {
+    "name": "Universidad Católica Boliviana, La Paz",
+    "domain": "www.ucb.edu.bo",
+    "country": "Bolivia",
+    "country_code": "BO"
+  },
+  {
+    "name": "Universidad Católica Boliviana, Santa Cruz",
+    "domain": "www.ucbscz.edu.bo",
+    "country": "Bolivia",
+    "country_code": "BO"
+  },
+  {
+    "name": "Universidad Católica Boliviana, Tarija",
+    "domain": "www.ucbtja.edu.bo",
+    "country": "Bolivia",
+    "country_code": "BO"
+  },
+  {
+    "name": "Universidad Central",
+    "domain": "www.unicen.edu.bo",
+    "country": "Bolivia",
+    "country_code": "BO"
+  },
+  {
+    "name": "Universidad de Aquino Bolivia",
+    "domain": "www.udabol.edu.bo",
+    "country": "Bolivia",
+    "country_code": "BO"
+  },
+  {
+    "name": "Universidad Domingo Savio",
+    "domain": "www.upds.edu.bo",
+    "country": "Bolivia",
+    "country_code": "BO"
+  },
+  {
+    "name": "Universidad Empresarial Mateo Kuljis",
+    "domain": "www.unikuljis.edu.bo",
+    "country": "Bolivia",
+    "country_code": "BO"
+  },
+  {
+    "name": "Universidad Juan Misael Saracho",
+    "domain": "www.uajms.edu.bo",
+    "country": "Bolivia",
+    "country_code": "BO"
+  },
+  {
+    "name": "Universidad Los Andes",
+    "domain": "www.udelosandes.edu.bo",
+    "country": "Bolivia",
+    "country_code": "BO"
+  },
+  {
+    "name": "Universidad Mayor de San Andrés",
+    "domain": "www.umsanet.edu.bo",
+    "country": "Bolivia",
+    "country_code": "BO"
+  },
+  {
+    "name": "Universidad Mayor de San Simón",
+    "domain": "www.umss.edu.bo",
+    "country": "Bolivia",
+    "country_code": "BO"
+  },
+  {
+    "name": "Universidad Nacional Siglo XX Llallagua",
+    "domain": "www.unsxx.edu.bo",
+    "country": "Bolivia",
+    "country_code": "BO"
+  },
+  {
+    "name": "Universidad Nuestra Senora de La Paz",
+    "domain": "www.unslp.edu.bo",
+    "country": "Bolivia",
+    "country_code": "BO"
+  },
+  {
+    "name": "Universidad NUR",
+    "domain": "www.nur.edu",
+    "country": "Bolivia",
+    "country_code": "BO"
+  },
+  {
+    "name": "Universidad Privada Abierta Latinoamericana",
+    "domain": "www.upal.edu",
+    "country": "Bolivia",
+    "country_code": "BO"
+  },
+  {
+    "name": "Universidad Privada Boliviana",
+    "domain": "www.upb.edu",
+    "country": "Bolivia",
+    "country_code": "BO"
+  },
+  {
+    "name": "Universidad Privada del Valle",
+    "domain": "www.univalle.edu",
+    "country": "Bolivia",
+    "country_code": "BO"
+  },
+  {
+    "name": "Universidad Privada de Santa Cruz de la Sierra",
+    "domain": "www.upsa.edu.bo",
+    "country": "Bolivia",
+    "country_code": "BO"
+  },
+  {
+    "name": "Universidad Privada Franz Tamayo (UNIFRANZ)",
+    "domain": "www.unifranz.edu.bo",
+    "country": "Bolivia",
+    "country_code": "BO"
+  },
+  {
+    "name": "Universidad Salesiana de Bolivia",
+    "domain": "www.usalesiana.edu.bo",
+    "country": "Bolivia",
+    "country_code": "BO"
+  },
+  {
+    "name": "Universidad San Francisco Xavier",
+    "domain": "www.usfx.info",
+    "country": "Bolivia",
+    "country_code": "BO"
+  },
+  {
+    "name": "Universidad San Francisco Xavier de Chuquisaca",
+    "domain": "www.usfx.edu.bo",
+    "country": "Bolivia",
+    "country_code": "BO"
+  },
+  {
+    "name": "Universidad Técnica de Oruro",
+    "domain": "www.uto.edu.bo",
+    "country": "Bolivia",
+    "country_code": "BO"
+  },
+  {
+    "name": "Centro Regional Universitário de Espiríto Santo do Pinhal",
+    "domain": "www.creupi.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Centro Universitário Adventista de São Paulo",
+    "domain": "www.unasp.edu.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Centro Universitário Barao de Maua",
+    "domain": "www.baraodemaua.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Centro Universitário Claretiano",
+    "domain": "www.claretiano.edu.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Centro Universitário de Araraquara",
+    "domain": "www.uniara.com.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Centro Universitário de João Pessoa",
+    "domain": "www.unipe.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Centro Universitário Monte Serrat",
+    "domain": "www.unimonte.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Centro Universitário Newton Paiva",
+    "domain": "www.newtonpaiva.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Centro Universitário Plinio Leite",
+    "domain": "www.unipli.com.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Centro Universitário Senac",
+    "domain": "www.sp.senac.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Centro Universitário Serra dos Órgãos",
+    "domain": "www.unifeso.edu.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "EMESCAM - Escola Superior de Ciências da Santa Casa de Misericórdia de Vitória",
+    "domain": "www.emescam.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "FAAP - Fundação Armando Alvares Penteado",
+    "domain": "www.faap.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Faculdade Integradas do Ceará",
+    "domain": "www.fic.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Faculdade Italo Brasileira",
+    "domain": "www.italo.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Faculdade Jaguariúna",
+    "domain": "www.faj.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Faculdades Integradas Curitiba",
+    "domain": "www.faculdadescuritiba.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Faculdades Integradas do Brasil - UNIBRASIL",
+    "domain": "www.unibrasil.com.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Faculdades Integradas Toledo",
+    "domain": "www.toledo.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Faculdades Integradas UPIS",
+    "domain": "www.upis.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "FAE Business School - Faculdade de Administração e Economia",
+    "domain": "www.fae.edu",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Fundação Educacional de Ituverava",
+    "domain": "www.feituverava.com.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Instituto Mauá de Tecnologia",
+    "domain": "www.maua.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Instituto Nacional de Matemática Pura e Aplicada - IMPA",
+    "domain": "www.impa.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Instituto Tecnológico de Aeronáutica",
+    "domain": "www.ita.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Pontifícia Universidade Católica de Campinas",
+    "domain": "www.puccamp.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Pontifícia Universidade Católica de Minas Gerais",
+    "domain": "www.pucminas.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Pontifícia Universidade Católica de São Paulo",
+    "domain": "www.pucsp.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Pontificia Universidade Católica do Paraná",
+    "domain": "www.pucpr.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Pontifícia Universidade Católica do Rio de Janeiro",
+    "domain": "www.puc-rio.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Pontifícia Universidade Católica do Rio Grande do Sul",
+    "domain": "www.pucrs.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Bandeirante de São Paulo",
+    "domain": "www.uniban.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Braz Cubas",
+    "domain": "www.brazcubas.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Camilo Castelo Branco",
+    "domain": "www.unicastelo.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Candido Mendes",
+    "domain": "www.candidomendes.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Castelo Branco",
+    "domain": "www.castelobranco.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Católica de Brasília",
+    "domain": "www.ucb.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Católica de Goiás",
+    "domain": "www.ucg.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Católica de Pelotas",
+    "domain": "www.ucpel.tche.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Católica de Pernambuco",
+    "domain": "www.unicap.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Católica de Petrópolis",
+    "domain": "www.ucp.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Católica de Salvador",
+    "domain": "www.ucsal.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Católica de Santos",
+    "domain": "www.unisantos.com.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Católica Dom Bosco",
+    "domain": "www.unibosco.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Cidade de São Paulo",
+    "domain": "www.unicid.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Cruzeiro do Sul",
+    "domain": "www.unicsul.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade da Amazônia",
+    "domain": "www.unama.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade da Região da Campanha",
+    "domain": "www.urcamp.tche.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade de Alfenas",
+    "domain": "www.unifenas.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade de Brasília",
+    "domain": "www.unb.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade de Caxias do Sul",
+    "domain": "www.ucs.tche.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade de Cruz Alta",
+    "domain": "www.unicruz.tche.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade de Fortaleza",
+    "domain": "www.unifor.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade de Franca",
+    "domain": "www.unifran.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade de Guarulhos",
+    "domain": "www.ung.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade de Itaúna",
+    "domain": "web.prover.com.br/fui",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade de Marília",
+    "domain": "www.unimar.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade de Mogi das Cruzes",
+    "domain": "www.umc.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade de Nova Iguaçu",
+    "domain": "www.unig.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade de Passo Fundo",
+    "domain": "www.upf.tche.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade de Pernambuco",
+    "domain": "www.upe.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade de Ribeirão Preto",
+    "domain": "www.unaerp.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade de Santa Cruz do Sul",
+    "domain": "www.unisc.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade de Santo Amaro",
+    "domain": "www.unisa.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade de São Paulo",
+    "domain": "www.usp.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade de Taubaté",
+    "domain": "www.unitau.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade de Tocantins",
+    "domain": "www.pop-to.rnp.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade de Uberaba",
+    "domain": "www.uniube.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade de Vila Velha",
+    "domain": "www.uvv.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade do Amazonas",
+    "domain": "www.fua.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade do Estado da Bahia",
+    "domain": "www.uneb.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade do Estado de Santa Catarina",
+    "domain": "www.udesc.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade do Estado do Rio de Janeiro",
+    "domain": "www.uerj.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade do Estado do Rio Grande do Norte",
+    "domain": "www.uern.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade do Extremo Sul Catarinense",
+    "domain": "www.unesc.rct-sc.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade do Grande Rio",
+    "domain": "www.unigranrio.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade do Oeste de Santa Catarina",
+    "domain": "www.unoesc.edu.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade do Oeste Paulista",
+    "domain": "www.unoeste.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade do Rio de Janeiro",
+    "domain": "www.unirio.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade do Rio Grande",
+    "domain": "www.furg.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade do Sagrado Coração",
+    "domain": "www.usc.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade do Sul de Santa Catarina",
+    "domain": "www.unisul.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade do Vale do Itajaí",
+    "domain": "www.univali.rct-sc.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Estácio de Sá",
+    "domain": "www.estacio.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Estadual da Paraíba",
+    "domain": "www.uepb.edu.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Estadual de Campinas",
+    "domain": "www.unicamp.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Estadual de Feira de Santana",
+    "domain": "www.uefs.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Estadual de Londrina",
+    "domain": "www.uel.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Estadual de Maringá",
+    "domain": "www.uem.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Estadual de Montes Claros",
+    "domain": "www.unimontes.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Estadual de Ponta Grossa",
+    "domain": "www.uepg.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Estadual de Santa Cruz",
+    "domain": "www.uesc.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Estadual do Ceará",
+    "domain": "www.uece.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Estadual do Centro-Oeste",
+    "domain": "www.unicentro.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Estadual do Maranhão",
+    "domain": "www.uema.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Estadual do Norte Fluminense",
+    "domain": "www.uenf.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Estadual do Oeste do Paraná",
+    "domain": "www.unioeste.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Estadual do Piauí",
+    "domain": "www.uespi.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Estadual do Vale do Acaraú",
+    "domain": "www.uvanet.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Estadual Paulista",
+    "domain": "www.unesp.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Estadual Sudoeste da Bahia",
+    "domain": "www.uesb.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Federal da Bahia",
+    "domain": "www.ufba.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Federal da Grande Dourados",
+    "domain": "www.ufgd.edu.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Federal da Paraíba",
+    "domain": "www.ufpb.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Federal de Alagoas",
+    "domain": "www.ufal.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Federal de Campina Grande",
+    "domain": "www.ufcg.edu.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Federal de Goiás",
+    "domain": "www.ufg.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Federal de Juiz de Fora",
+    "domain": "www.ufjf.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Federal de Lavras",
+    "domain": "www.ufla.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Federal de Mato Grosso",
+    "domain": "www.ufmt.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Federal de Mato Grosso do Sul",
+    "domain": "www.ufms.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Federal de Minas Gerais",
+    "domain": "www.ufmg.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Federal de Ouro Preto",
+    "domain": "www.ufop.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Federal de Pelotas",
+    "domain": "www.ufpel.tche.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Federal de Pernambuco",
+    "domain": "www.ufpe.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Federal de Rondônia",
+    "domain": "www.unir.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Federal de Roraima",
+    "domain": "www.technet.com.br/vestibular",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Federal de Santa Catarina",
+    "domain": "www.ufsc.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Federal de Santa Maria",
+    "domain": "www.ufsm.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Federal de São Carlos",
+    "domain": "www.ufscar.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Federal de São Paulo",
+    "domain": "www.epm.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Federal de Sergipe",
+    "domain": "www.ufs.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Federal de Uberlândia",
+    "domain": "www.ufu.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Federal de Viçosa",
+    "domain": "www.ufv.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Federal do ABC",
+    "domain": "www.ufabc.edu.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Federal do Acre",
+    "domain": "www.ufac.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Federal do Amapá",
+    "domain": "www.unifap.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Federal do Ceará",
+    "domain": "www.ufc.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Federal do Espírito Santo",
+    "domain": "www.ufes.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Federal do Maranhão",
+    "domain": "www.ufma.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Federal do Pará",
+    "domain": "www.ufpa.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Federal do Paraná",
+    "domain": "www.ufpr.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Federal do Piauí",
+    "domain": "www.ufpi.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Federal do Rio de Janeiro",
+    "domain": "www.ufrj.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Federal do Rio Grande do Norte",
+    "domain": "www.ufrn.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Federal do Rio Grande do Sul",
+    "domain": "www.ufrgs.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Federal do Vale do São Francisco",
+    "domain": "www.univasf.edu.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Federal Fluminense",
+    "domain": "www.uff.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Federal Rural de Pernambuco",
+    "domain": "www.ufrpe.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Federal Rural do Rio de Janeiro",
+    "domain": "www.ufrrj.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Federal Rural do Semi-Árido",
+    "domain": "www.ufersa.edu.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Gama Filho",
+    "domain": "www.ugf.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Ibirapuera",
+    "domain": "www.unib.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Luterana do Brasil",
+    "domain": "www.ulbra.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Mackenzie",
+    "domain": "www.mackenzie.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Metodista de Piracicaba",
+    "domain": "www.unimep.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Metropolitana de Santos",
+    "domain": "www.unimes.com.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade para o Desenvolvimento do Alto Vale do Itajaí",
+    "domain": "www.unidavi.rct-sc.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Paulista",
+    "domain": "www.unip-objetivo.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Potiguar",
+    "domain": "www.unp.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Regional de Blumenau",
+    "domain": "www.furb.rct-sc.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Regional do Cariri",
+    "domain": "www.urca.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Regional do Noroeste do Estado do Rio Grande do Sul",
+    "domain": "www.unijui.tche.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Regional Integrada do Alto Uruguai e das Missões",
+    "domain": "www.uri.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Salgado de Oliveira",
+    "domain": "www.universo.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Salvador",
+    "domain": "www.unifacs.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Santa Cecília dos Bandeirantes",
+    "domain": "www.stcecilia.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Santa Úrsula",
+    "domain": "www.usu.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade São Francisco",
+    "domain": "www.usf.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade São Judas Tadeu",
+    "domain": "www.saojudas.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade São Marcos",
+    "domain": "www.smarcos.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Tiradentes",
+    "domain": "www.unit.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Vale do Paraiba",
+    "domain": "www.univap.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Vale do Rio Doce",
+    "domain": "www.univale.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Vale do Rio dos Sinos",
+    "domain": "www.unisinos.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Universidade Veiga de Almeida",
+    "domain": "www.uva.br",
+    "country": "Brazil",
+    "country_code": "BR"
+  },
+  {
+    "name": "Escuela de Arquitectura y Diseño",
+    "domain": "www.arquitecturaucv.cl",
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  {
+    "name": "Pontificia Universidad Catolica de Chile",
+    "domain": "www.puc.cl",
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  {
+    "name": "Universidad Academia de Humanismo Cristiano",
+    "domain": "www.academia.cl",
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  {
+    "name": "Universidad Academia de Humanismo Cristiano",
+    "domain": "www.academia.cl",
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  {
+    "name": "Universidad \"Adolfo Ibañez\"",
+    "domain": "www.uai.cl",
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  {
+    "name": "Universidad Adolfo Ibáñez",
+    "domain": "www.uai.cl",
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  {
+    "name": "Universidad Adventista de Chile",
+    "domain": "www.unachile.cl",
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  {
+    "name": "Universidad Alberto Hurtado",
+    "domain": "www.uahurtado.cl",
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  {
+    "name": "Universidad Arcis",
+    "domain": "www.universidadarcis.cl",
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  {
+    "name": "Universidad \"Arturo Prat\"",
+    "domain": "www.unap.cl",
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  {
+    "name": "Universidad Austral de Chile",
+    "domain": "www.uach.cl",
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  {
+    "name": "Universidad Autonoma del Sur",
+    "domain": "www.uas.cl",
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  {
+    "name": "Universidad Bernardo O'Higgins",
+    "domain": "www.ubohiggins.cl",
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  {
+    "name": "Universidad Bolivariana",
+    "domain": "www.ubolivariana.cl",
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  {
+    "name": "Universidad Católica Cardenal Raúl Silva Henríquez",
+    "domain": "www.ucsh.cl",
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  {
+    "name": "Universidad Catolica de La Santísima Concepción",
+    "domain": "www.ucsc.cl",
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  {
+    "name": "Universidad Catolica del Maule",
+    "domain": "www.ucm.cl",
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  {
+    "name": "Universidad Catolica del Norte",
+    "domain": "www.ucn.cl",
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  {
+    "name": "Universidad Catolica de Temuco",
+    "domain": "www.uctem.cl",
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  {
+    "name": "Universidad Catolica de Valparaiso",
+    "domain": "www.ucv.cl",
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  {
+    "name": "Universidad Central",
+    "domain": "www.ucentral.cl",
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  {
+    "name": "Universidad Chileno Britanica de Cultura",
+    "domain": "www.ubritanica.cl",
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  {
+    "name": "Universidad de Aconcagua",
+    "domain": "www.uaconcagua.cl",
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  {
+    "name": "Universidad de Antofagasta",
+    "domain": "www.uantof.cl",
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  {
+    "name": "Universidad de Artes, Ciencias y Comunicación",
+    "domain": "www.uniacc.cl",
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  {
+    "name": "Universidad de Atacama",
+    "domain": "www.uda.cl",
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  {
+    "name": "Universidad de Chile",
+    "domain": "www.uchile.cl",
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  {
+    "name": "Universidad de Ciencias de la Informatica",
+    "domain": "www.ucinf.cl",
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  {
+    "name": "Universidad de Concepcion",
+    "domain": "www.udec.cl",
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  {
+    "name": "Universidad de La Frontera",
+    "domain": "www.ufro.cl",
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  {
+    "name": "Universidad de Las Américas",
+    "domain": "www.uamericas.cl",
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  {
+    "name": "Universidad de La Serena",
+    "domain": "www.userena.cl",
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  {
+    "name": "Universidad del Bío-Bío",
+    "domain": "www.ubiobio.cl",
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  {
+    "name": "Universidad del Desarrollo",
+    "domain": "www.udesarrollo.cl",
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  {
+    "name": "Universidad del Mar",
+    "domain": "www.udelmar.cl",
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  {
+    "name": "Universidad de Los Andes",
+    "domain": "www.uandes.cl",
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  {
+    "name": "Universidad de Los Lagos",
+    "domain": "www.ulagos.cl",
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  {
+    "name": "Universidad del Pacífico",
+    "domain": "www.upacifico.cl",
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  {
+    "name": "Universidad de Magallanes",
+    "domain": "www.umag.cl",
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  {
+    "name": "Universidad de Playa Ancha de Ciencias de la Educacion",
+    "domain": "www.upa.cl",
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  {
+    "name": "Universidad de San Andres",
+    "domain": "www.usanandres.cl",
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  {
+    "name": "Universidad de Santiago de Chile",
+    "domain": "www.usach.cl",
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  {
+    "name": "Universidad de Talca",
+    "domain": "www.utalca.cl",
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  {
+    "name": "Universidad de Tarapacá",
+    "domain": "www.uta.cl",
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  {
+    "name": "Universidad de Valparaiso",
+    "domain": "www.uv.cl",
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  {
+    "name": "Universidad de Viña del Mar",
+    "domain": "www.uvm.cl",
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  {
+    "name": "Universidad Diego Portales",
+    "domain": "www.udp.cl",
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  {
+    "name": "Universidad Finis Terrae",
+    "domain": "www.ufinis.cl",
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  {
+    "name": "Universidad Francisco de Aguirre",
+    "domain": "www.unfa.cl",
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  {
+    "name": "Universidad Gabriela Mistral",
+    "domain": "www.ugm.cl",
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  {
+    "name": "Universidad Iberoamericana de Ciencias y Tecnologia",
+    "domain": "www.unicit.cl",
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  {
+    "name": "Universidad International SEK, Santiago",
+    "domain": "www.uisek.cl",
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  {
+    "name": "Universidad José Santos Ossa",
+    "domain": "www.ujso.cl",
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  {
+    "name": "Universidad La Republica",
+    "domain": "www.ulare.cl",
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  {
+    "name": "Universidad Mariano Egaña",
+    "domain": "www.ume.cl",
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  {
+    "name": "Universidad Maritima de Chile",
+    "domain": "www.umaritima.cl",
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  {
+    "name": "Universidad Mayor",
+    "domain": "www.umayor.cl",
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  {
+    "name": "Universidad Metropolitana de Ciencias de la Educación",
+    "domain": "www.umce.cl",
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  {
+    "name": "Universidad Miguel de Cervantes",
+    "domain": "www.ucervantes.cl",
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  {
+    "name": "Universidad Nacional Andrés Bello",
+    "domain": "www.unab.cl",
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  {
+    "name": "Universidad San Sebastian",
+    "domain": "www.uss.cl",
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  {
+    "name": "Universidad Santo Tomás",
+    "domain": "www.ust.cl",
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  {
+    "name": "Universidad Técnica \"Federico Santa María\"",
+    "domain": "www.utfsm.cl",
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  {
+    "name": "Universidad Tecnológica Metropolitana",
+    "domain": "www.utem.cl",
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  {
+    "name": "Universidad Tecnologica \"Vicente Perez Rosales\"",
+    "domain": "www.uvipro.cl",
+    "country": "Chile",
+    "country_code": "CL"
+  },
+  {
+    "name": "Centro de Estudios Investigación y Tecnología (CEIT)",
+    "domain": "www.iceit.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Colegio de Estudios Superiores de Administración (CESA)",
+    "domain": "www.cesa.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Conservatorio del Tolima",
+    "domain": "www.bundenet.com/umusical",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Corporación Educativa Mayor del Desarrollo \"Simón Bolivar\"",
+    "domain": "www.unisimonbolivar.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Corporación Universitaria de Ibagué (CORUNIVERSITARIA)",
+    "domain": "www.cui.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Corporación Universitaria de la Costa (UNICOSTA)",
+    "domain": "www.cuc.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Corporación Universitaria de Santander (UDES)",
+    "domain": "www.udes.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Corporación Universitaria Tecnológica de Bolivar",
+    "domain": "www.cutb.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Escuela Colombiana de Carreras Industriales",
+    "domain": "www.ecci.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Escuela Colombiana de Ingeniería Julio Garavito",
+    "domain": "www.escuelaing.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Escuela de Administración de Negocios",
+    "domain": "www.ean.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Escuela de Ingeniería de Antioquia",
+    "domain": "www.eia.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Escuela de Policia \"General Santander\"",
+    "domain": "www.escueladepolicia.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Escuela Superiore de Administración Pública",
+    "domain": "www.esap.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Fundacion Escuela Colombiana de Rehabiliación",
+    "domain": "www.ecr.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Fundación Universitaria de Boyacá",
+    "domain": "www.uniboyaca.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Fundación Universitaria del Area Andina. Sede Pereira",
+    "domain": "www.funandi.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Fundación Universitaria Luis Amigó",
+    "domain": "www.funlam.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Fundación Universitaria Manuela Beltrán",
+    "domain": "www.umb.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Fundación Universitaria San Martín",
+    "domain": "www.sanmartin.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Institucion Universitaria de Envigado",
+    "domain": "www.iue.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Institución Universitaria Iberoamericana",
+    "domain": "www.iberoamericana.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Instituto Tecnológico Metropolitano",
+    "domain": "www.itm.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Instituto Universitario de La Paz",
+    "domain": "www.unipaz.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Politécnico Columbiano \"Jaime Isaza Cadavid\"",
+    "domain": "www.politecjic.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Politécnico Grancolombiano - Institución Universitaria",
+    "domain": "www.poligran.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Pontificia Universidad Javeriana",
+    "domain": "www.javeriana.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad Adventista de Colombia",
+    "domain": "www.unac.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad Antonio Nariño",
+    "domain": "www.uanarino.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad Autónoma de Bucaramanga",
+    "domain": "www.unab.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad Autónoma de Colombia",
+    "domain": "www.fuac.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad Autónoma de Las Américas",
+    "domain": "www.uam.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad Autónoma del Caribe",
+    "domain": "www.uac.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad Autónoma de Manizales",
+    "domain": "www.autonoma.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad Autónoma de Occidente",
+    "domain": "www.cuao.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad Autónoma Latinoamericana",
+    "domain": "www.unaula.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad Bellas Artes",
+    "domain": "www.bellasartes.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad Católica de Colombia",
+    "domain": "www.ucatolica.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad Católica del Norte",
+    "domain": "www.ucn.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad Católica del Oriente",
+    "domain": "www.uco.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad Católica de Manizales",
+    "domain": "www.ucatolicamz.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad Católica Popular del Risaralda",
+    "domain": "www.ucpr.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad Central",
+    "domain": "www.ucentral.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad Central del Valle del Cauca",
+    "domain": "www.uceva.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad CES",
+    "domain": "www.ces.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad Cooperativa de Colombia",
+    "domain": "www.ucc.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad de América Bogotá",
+    "domain": "www.uamerica.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad de Antioquia",
+    "domain": "www.udea.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad de Antioquía",
+    "domain": "www.udea.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad de Bogotá \"Jorge Tadeo Lozano\"",
+    "domain": "www.utadeo.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad de Caldas",
+    "domain": "www.ucaldas.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad de Cartagena",
+    "domain": "www.unicartagena.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad de Ciencias Aplicadas y Ambientales (UDCA)",
+    "domain": "www.udca.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad de Córdoba",
+    "domain": "www.unicordoba.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad de La Amazonia",
+    "domain": "www.uniamazonia.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad de La Guajira",
+    "domain": "www.uniguajira.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad de La Sabana",
+    "domain": "www.unisabana.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad de La Salle",
+    "domain": "www.lasalle.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad del Atlántico",
+    "domain": "www.uniatlantico.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad del Cauca",
+    "domain": "www.ucauca.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad del Magdalena",
+    "domain": "www.unimagdalena.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad del Norte",
+    "domain": "www.uninorte.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad de Los Andes",
+    "domain": "www.uniandes.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad de Los Llanos",
+    "domain": "www.unillanos.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad del Quindío",
+    "domain": "www.uniquindio.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad del Rosario",
+    "domain": "www.urosario.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad del Sinú",
+    "domain": "www.unisinucartagena.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad del Tolima",
+    "domain": "www.ut.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad del Valle del Cauca",
+    "domain": "www.univalle.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad de Manizales",
+    "domain": "www.umanizales.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad de Medellín",
+    "domain": "www.udem.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad de Nariño",
+    "domain": "www.udenar.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad de Pamplona",
+    "domain": "www.unipamplona.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad de San Buenaventura",
+    "domain": "www.usb.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad de San Buenaventura Medellin",
+    "domain": "www.usbmed.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad de Sucre",
+    "domain": "www.unisucre.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad Distral \"Francisco José de Caldas\"",
+    "domain": "www.udistrital.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad EAFIT",
+    "domain": "www.eafit.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad El Bosque",
+    "domain": "www.unbosque.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad Externado de Colombia",
+    "domain": "www.uexternado.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad Francisco de Paula Santander",
+    "domain": "www.ufps.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad ICESI",
+    "domain": "www.icesi.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad INCCA de Colombia",
+    "domain": "www.unincca.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad Industrial de Santander",
+    "domain": "www.uis.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad La Gran Colombia",
+    "domain": "www.ugrancolombia.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad Libre de Colombia",
+    "domain": "www.unilibre.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad Mariana",
+    "domain": "www.umariana.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad Metropolitana",
+    "domain": "www.unimetro.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad Militar Nueva Granada",
+    "domain": "www.umng.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad Nacional Abierta y a Distancia",
+    "domain": "www.unad.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad Nacional de Colombia",
+    "domain": "www.unal.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad Pedagogica Nacional",
+    "domain": "www.pedagogica.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad Pedagógica y Tecnológica de Colombia",
+    "domain": "www.uptc.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad Piloto de Colombia",
+    "domain": "www.unipiloto.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad Pontificia Bolivariana",
+    "domain": "www.upb.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad Popular del Cesar",
+    "domain": "www.unicesar.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad Santiago de Cali",
+    "domain": "www.usaca.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad Santo Tomás",
+    "domain": "www.usta.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad Sergio Arboleda",
+    "domain": "www.usergioarboleda.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad Surcolombiana",
+    "domain": "www.usurcolombia.com",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad Tecnológica del Choco \"Diego Luis Cordoba\"",
+    "domain": "www.utch.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Universidad Tecnológica de Pereira",
+    "domain": "www.utp.edu.co",
+    "country": "Colombia",
+    "country_code": "CO"
+  },
+  {
+    "name": "Instituto Tecnológico de Costa Rica",
+    "domain": "www.itcr.ac.cr",
+    "country": "Costa Rica",
+    "country_code": "CR"
+  },
+  {
+    "name": "Universidad Adventista de Centro América",
+    "domain": "www.unadeca.ac.cr",
+    "country": "Costa Rica",
+    "country_code": "CR"
+  },
+  {
+    "name": "Universidad Autónoma de Centro América",
+    "domain": "www.uaca.ac.cr",
+    "country": "Costa Rica",
+    "country_code": "CR"
+  },
+  {
+    "name": "Universidad Autonoma Monterrey",
+    "domain": "www.unam.ac.cr",
+    "country": "Costa Rica",
+    "country_code": "CR"
+  },
+  {
+    "name": "Universidad Braulio Carrillo",
+    "domain": "www.universidadbrauliocarrillo.com",
+    "country": "Costa Rica",
+    "country_code": "CR"
+  },
+  {
+    "name": "Universidad Católica Anselmo Llorente",
+    "domain": "www.ucatolica.ac.cr",
+    "country": "Costa Rica",
+    "country_code": "CR"
+  },
+  {
+    "name": "Universidad Central",
+    "domain": "www.universidadcentral.com",
+    "country": "Costa Rica",
+    "country_code": "CR"
+  },
+  {
+    "name": "Universidad de Cartago Florencio del Castillo",
+    "domain": "www.uca.ac.cr",
+    "country": "Costa Rica",
+    "country_code": "CR"
+  },
+  {
+    "name": "Universidad de Costa Rica",
+    "domain": "www.ucr.ac.cr",
+    "country": "Costa Rica",
+    "country_code": "CR"
+  },
+  {
+    "name": "Universidad de Iberoamérica",
+    "domain": "www.unibe.ac.cr",
+    "country": "Costa Rica",
+    "country_code": "CR"
+  },
+  {
+    "name": "Universidad de La Salle",
+    "domain": "www.ulasalle.ac.cr",
+    "country": "Costa Rica",
+    "country_code": "CR"
+  },
+  {
+    "name": "Universidad del Turismo",
+    "domain": "www.utur.ac.cr",
+    "country": "Costa Rica",
+    "country_code": "CR"
+  },
+  {
+    "name": "Universidad de San José",
+    "domain": "www.universidadsanjosecr.com",
+    "country": "Costa Rica",
+    "country_code": "CR"
+  },
+  {
+    "name": "Universidad Empresarial",
+    "domain": "www.unem.edu/internacional",
+    "country": "Costa Rica",
+    "country_code": "CR"
+  },
+  {
+    "name": "Universidad Estatal a Distancia",
+    "domain": "www.uned.ac.cr",
+    "country": "Costa Rica",
+    "country_code": "CR"
+  },
+  {
+    "name": "Universidad Fidélitas",
+    "domain": "www.ufidelitas.ac.cr",
+    "country": "Costa Rica",
+    "country_code": "CR"
+  },
+  {
+    "name": "Universidad Fundepos Alma Mater",
+    "domain": "www.fundepos.ac.cr",
+    "country": "Costa Rica",
+    "country_code": "CR"
+  },
+  {
+    "name": "Universidad Hispanoamericana",
+    "domain": "www.uhispanoamericana.ac.cr",
+    "country": "Costa Rica",
+    "country_code": "CR"
+  },
+  {
+    "name": "Universidad Internacional de las Américas",
+    "domain": "www.uia.ac.cr",
+    "country": "Costa Rica",
+    "country_code": "CR"
+  },
+  {
+    "name": "Universidad Isaac Newton",
+    "domain": "www.isaacnewtoncr.com",
+    "country": "Costa Rica",
+    "country_code": "CR"
+  },
+  {
+    "name": "Universidad Latina de Costa Rica",
+    "domain": "www.ulatina.ac.cr",
+    "country": "Costa Rica",
+    "country_code": "CR"
+  },
+  {
+    "name": "Universidad Latinoamericana de Ciencia y Tecnología",
+    "domain": "www.ulacit.ac.cr",
+    "country": "Costa Rica",
+    "country_code": "CR"
+  },
+  {
+    "name": "Universidad Libre de Costa Rica",
+    "domain": "www.ulicori.ac.cr",
+    "country": "Costa Rica",
+    "country_code": "CR"
+  },
+  {
+    "name": "Universidad Metropolitana Castro Carazo",
+    "domain": "www.umca.net",
+    "country": "Costa Rica",
+    "country_code": "CR"
+  },
+  {
+    "name": "Universidad Nacional",
+    "domain": "www.una.ac.cr",
+    "country": "Costa Rica",
+    "country_code": "CR"
+  },
+  {
+    "name": "Universidad para la Cooperación Internacional",
+    "domain": "www.uci.ac.cr",
+    "country": "Costa Rica",
+    "country_code": "CR"
+  },
+  {
+    "name": "Universidad San Juan de la Cruz",
+    "domain": "www.universidadsanjuan.ac.cr",
+    "country": "Costa Rica",
+    "country_code": "CR"
+  },
+  {
+    "name": "Universidad San Juan de la Cruz",
+    "domain": "www.sjdlc.com",
+    "country": "Costa Rica",
+    "country_code": "CR"
+  },
+  {
+    "name": "Universidad San Marcos",
+    "domain": "www.usam.ac.cr",
+    "country": "Costa Rica",
+    "country_code": "CR"
+  },
+  {
+    "name": "Universidad Santa Paula",
+    "domain": "www.uspsantapaula.com",
+    "country": "Costa Rica",
+    "country_code": "CR"
+  },
+  {
+    "name": "Universidad Veritas",
+    "domain": "www.uveritas.ac.cr",
+    "country": "Costa Rica",
+    "country_code": "CR"
+  },
+  {
+    "name": "University for Peace",
+    "domain": "www.upeace.org",
+    "country": "Costa Rica",
+    "country_code": "CR"
+  },
+  {
+    "name": "Instituto Superior Minero Metalúrgico \"Dr. Antonio Núñez Jiménez\"",
+    "domain": "www.ismm.edu.cu",
+    "country": "Cuba",
+    "country_code": "CU"
+  },
+  {
+    "name": "Instituto Superior Politécnico José Antonio Echeverría",
+    "domain": "www.cujae.edu.cu",
+    "country": "Cuba",
+    "country_code": "CU"
+  },
+  {
+    "name": "Universidad Central de Las Villas",
+    "domain": "www.uclv.edu.cu",
+    "country": "Cuba",
+    "country_code": "CU"
+  },
+  {
+    "name": "Universidad de Camagüey",
+    "domain": "www.reduc.edu.cu",
+    "country": "Cuba",
+    "country_code": "CU"
+  },
+  {
+    "name": "Universidad de Ciego de Avila",
+    "domain": "www.unica.cu",
+    "country": "Cuba",
+    "country_code": "CU"
+  },
+  {
+    "name": "Universidad de Cienfuegos",
+    "domain": "www.ucf.edu.cu",
+    "country": "Cuba",
+    "country_code": "CU"
+  },
+  {
+    "name": "Universidad de Granma",
+    "domain": "www.udg.co.cu",
+    "country": "Cuba",
+    "country_code": "CU"
+  },
+  {
+    "name": "Universidad de Holguín",
+    "domain": "www.uho.edu.cu",
+    "country": "Cuba",
+    "country_code": "CU"
+  },
+  {
+    "name": "Universidad de La Habana",
+    "domain": "www.uh.cu",
+    "country": "Cuba",
+    "country_code": "CU"
+  },
+  {
+    "name": "Universidad de Matanzas Camilo Cienfuegos",
+    "domain": "www.umcc.cu",
+    "country": "Cuba",
+    "country_code": "CU"
+  },
+  {
+    "name": "Universidad de Oriente",
+    "domain": "www.uo.edu.cu",
+    "country": "Cuba",
+    "country_code": "CU"
+  },
+  {
+    "name": "Universidad de Pinar del Río",
+    "domain": "www.upr.edu.cu",
+    "country": "Cuba",
+    "country_code": "CU"
+  },
+  {
+    "name": "Universidad Pedagógica \"José Martí\", Camagüey",
+    "domain": "www.ispcmw.rimed.cu",
+    "country": "Cuba",
+    "country_code": "CU"
+  },
+  {
+    "name": "Instituto Tecnológico de Santo Domingo",
+    "domain": "www.intec.edu.do",
+    "country": "Dominican Republic",
+    "country_code": "DO"
+  },
+  {
+    "name": "Pontificia Universidad Católica Madre y Maestra (PUCMM)",
+    "domain": "www.pucmm.edu.do",
+    "country": "Dominican Republic",
+    "country_code": "DO"
+  },
+  {
+    "name": "Universidad Abierta Para Adultos",
+    "domain": "www.uapa.edu.do",
+    "country": "Dominican Republic",
+    "country_code": "DO"
+  },
+  {
+    "name": "Universidad Adventista Dominicana",
+    "domain": "www.unad.edu.do",
+    "country": "Dominican Republic",
+    "country_code": "DO"
+  },
+  {
+    "name": "Universidad Agroforestal Fernando A.Meriño",
+    "domain": "www.uafam.edu.do",
+    "country": "Dominican Republic",
+    "country_code": "DO"
+  },
+  {
+    "name": "Universidad APEC",
+    "domain": "www.unapec.edu.do",
+    "country": "Dominican Republic",
+    "country_code": "DO"
+  },
+  {
+    "name": "Universidad Autónoma de Santo Domingo",
+    "domain": "www.uasd.edu.do",
+    "country": "Dominican Republic",
+    "country_code": "DO"
+  },
+  {
+    "name": "Universidad Católica de Santo Domingo",
+    "domain": "www.ucsd.edu.do",
+    "country": "Dominican Republic",
+    "country_code": "DO"
+  },
+  {
+    "name": "Universidad Católica Madre y Maestra",
+    "domain": "www.pucmm.edu.do",
+    "country": "Dominican Republic",
+    "country_code": "DO"
+  },
+  {
+    "name": "Universidad Católica Nordestana",
+    "domain": "www.ucne.edu.do",
+    "country": "Dominican Republic",
+    "country_code": "DO"
+  },
+  {
+    "name": "Universidad Católica Tecnológica del Cibao",
+    "domain": "www.ucateci.edu.do",
+    "country": "Dominican Republic",
+    "country_code": "DO"
+  },
+  {
+    "name": "Universidad Central del Este",
+    "domain": "www.uce.edu.do",
+    "country": "Dominican Republic",
+    "country_code": "DO"
+  },
+  {
+    "name": "Universidad Central Dominicana de Estudio Profesionales",
+    "domain": "66.98.64.31",
+    "country": "Dominican Republic",
+    "country_code": "DO"
+  },
+  {
+    "name": "Universidad de la Tercera Edad",
+    "domain": "www.ute.edu.do",
+    "country": "Dominican Republic",
+    "country_code": "DO"
+  },
+  {
+    "name": "Universidad del Caribe",
+    "domain": "www.unicaribe.edu.do",
+    "country": "Dominican Republic",
+    "country_code": "DO"
+  },
+  {
+    "name": "Universidad Dominicana O&M",
+    "domain": "www.udoym.edu.do",
+    "country": "Dominican Republic",
+    "country_code": "DO"
+  },
+  {
+    "name": "Universidad Dominico-Americana",
+    "domain": "www.icda.edu.do/espanol/unicda",
+    "country": "Dominican Republic",
+    "country_code": "DO"
+  },
+  {
+    "name": "Universidad Eugenio Maria de Hostos",
+    "domain": "www.uniremhos.edu.do",
+    "country": "Dominican Republic",
+    "country_code": "DO"
+  },
+  {
+    "name": "Universidad Experimental Felix Adam",
+    "domain": "www.unefa.edu.do",
+    "country": "Dominican Republic",
+    "country_code": "DO"
+  },
+  {
+    "name": "Universidad Federico Henríquez y Carvajal",
+    "domain": "www.ufhec.edu.do",
+    "country": "Dominican Republic",
+    "country_code": "DO"
+  },
+  {
+    "name": "Universidad Iberoamericana",
+    "domain": "www.unibe.edu.do",
+    "country": "Dominican Republic",
+    "country_code": "DO"
+  },
+  {
+    "name": "Universidad Interamericana",
+    "domain": "www.unica.edu.do",
+    "country": "Dominican Republic",
+    "country_code": "DO"
+  },
+  {
+    "name": "Universidad Nacional Evangélica",
+    "domain": "www.unev-rd.edu.do",
+    "country": "Dominican Republic",
+    "country_code": "DO"
+  },
+  {
+    "name": "Universidad Nacional Pedro Henríquez Ureña",
+    "domain": "www.unphu.edu.do",
+    "country": "Dominican Republic",
+    "country_code": "DO"
+  },
+  {
+    "name": "Universidad Odontológica Dominicana",
+    "domain": "www.uod.edu.do",
+    "country": "Dominican Republic",
+    "country_code": "DO"
+  },
+  {
+    "name": "Universidad Tecnológica del Sur",
+    "domain": "www.utesur.edu.do",
+    "country": "Dominican Republic",
+    "country_code": "DO"
+  },
+  {
+    "name": "Universidad Tecnológica de Santiago",
+    "domain": "www.utesa.edu",
+    "country": "Dominican Republic",
+    "country_code": "DO"
+  },
+  {
+    "name": "Universidad Ulises Francisco Espaillat",
+    "domain": "www.ufhec.edu.do",
+    "country": "Dominican Republic",
+    "country_code": "DO"
+  },
+  {
+    "name": "Brookdale Community College",
+    "domain": "www.brookdale.edu.ec",
+    "country": "Ecuador",
+    "country_code": "EC"
+  },
+  {
+    "name": "Escuela Politécnica de Chimborazo",
+    "domain": "www.espoch.edu",
+    "country": "Ecuador",
+    "country_code": "EC"
+  },
+  {
+    "name": "Escuela Politécnica del Ejercito",
+    "domain": "www.espe.edu.ec",
+    "country": "Ecuador",
+    "country_code": "EC"
+  },
+  {
+    "name": "Escuela Politécnica Nacional",
+    "domain": "www.epn.edu.ec",
+    "country": "Ecuador",
+    "country_code": "EC"
+  },
+  {
+    "name": "Escuela Superior Politécnica del Litoral",
+    "domain": "www.espol.edu.ec",
+    "country": "Ecuador",
+    "country_code": "EC"
+  },
+  {
+    "name": "Pontificia Universidad Católica del Ecuador",
+    "domain": "www.puce.edu.ec",
+    "country": "Ecuador",
+    "country_code": "EC"
+  },
+  {
+    "name": "Universidad Agraria del Ecuador",
+    "domain": "www.uagraria.edu.ec",
+    "country": "Ecuador",
+    "country_code": "EC"
+  },
+  {
+    "name": "Universidad Andina Simón Bolívar",
+    "domain": "www.uasb.edu.ec",
+    "country": "Ecuador",
+    "country_code": "EC"
+  },
+  {
+    "name": "Universidad Casa Grande",
+    "domain": "www.casagrande.edu.ec",
+    "country": "Ecuador",
+    "country_code": "EC"
+  },
+  {
+    "name": "Universidad Catolica de Azogues",
+    "domain": "www.ucaazo.edu.ec",
+    "country": "Ecuador",
+    "country_code": "EC"
+  },
+  {
+    "name": "Universidad Católica de Cuenca",
+    "domain": "www.ucacue.edu.ec",
+    "country": "Ecuador",
+    "country_code": "EC"
+  },
+  {
+    "name": "Universidad Católica de Santiago de Guayaquil",
+    "domain": "www.ucsg.edu.ec",
+    "country": "Ecuador",
+    "country_code": "EC"
+  },
+  {
+    "name": "Universidad Central del Ecuador",
+    "domain": "www.ucentral.edu.ec",
+    "country": "Ecuador",
+    "country_code": "EC"
+  },
+  {
+    "name": "Universidad de Cuenca",
+    "domain": "www.ucuenca.edu.ec",
+    "country": "Ecuador",
+    "country_code": "EC"
+  },
+  {
+    "name": "Universidad de Especialidades del Espíritu Santo",
+    "domain": "www.uees.edu.ec",
+    "country": "Ecuador",
+    "country_code": "EC"
+  },
+  {
+    "name": "Universidad de Especialidades Turísticas",
+    "domain": "www.uct.edu.ec",
+    "country": "Ecuador",
+    "country_code": "EC"
+  },
+  {
+    "name": "Universidad de Guayaquil",
+    "domain": "www.ug.edu.ec",
+    "country": "Ecuador",
+    "country_code": "EC"
+  },
+  {
+    "name": "Universidad del Azuay",
+    "domain": "www.uazuay.edu.ec",
+    "country": "Ecuador",
+    "country_code": "EC"
+  },
+  {
+    "name": "Universidad del Pacifico",
+    "domain": "www.upacifico.edu.ec",
+    "country": "Ecuador",
+    "country_code": "EC"
+  },
+  {
+    "name": "Universidad Estatal de Bolívar",
+    "domain": "www.ueb.isfun.net",
+    "country": "Ecuador",
+    "country_code": "EC"
+  },
+  {
+    "name": "Universidad Internacional del Ecuador",
+    "domain": "www.internacional.edu.ec",
+    "country": "Ecuador",
+    "country_code": "EC"
+  },
+  {
+    "name": "Universidad Internacional SEK, Quito",
+    "domain": "www.sek.edu/html/ecuador.html",
+    "country": "Ecuador",
+    "country_code": "EC"
+  },
+  {
+    "name": "Universidad Laica \"Eloy Alfaro\" de Manabi",
+    "domain": "www.uleam.edu.ec",
+    "country": "Ecuador",
+    "country_code": "EC"
+  },
+  {
+    "name": "Universidad Laica \"Vicente Rocafuerte\" de Guayaquil",
+    "domain": "www.ulaicavr.com",
+    "country": "Ecuador",
+    "country_code": "EC"
+  },
+  {
+    "name": "Universidad Nacional de Chimborazo",
+    "domain": "www.unach.edu.ec",
+    "country": "Ecuador",
+    "country_code": "EC"
+  },
+  {
+    "name": "Universidad Nacional de Loja",
+    "domain": "www.unl.edu.ec",
+    "country": "Ecuador",
+    "country_code": "EC"
+  },
+  {
+    "name": "Universidad Politécnica Salesiana",
+    "domain": "www.ups.edu.ec",
+    "country": "Ecuador",
+    "country_code": "EC"
+  },
+  {
+    "name": "Universidad San Francisco de Quito",
+    "domain": "www.usfq.edu.ec",
+    "country": "Ecuador",
+    "country_code": "EC"
+  },
+  {
+    "name": "Universidad Santa María Campus Guayaquil",
+    "domain": "www.usm.edu.ec",
+    "country": "Ecuador",
+    "country_code": "EC"
+  },
+  {
+    "name": "Universidad Técnica de Ambato",
+    "domain": "www.uta.edu.ec",
+    "country": "Ecuador",
+    "country_code": "EC"
+  },
+  {
+    "name": "Universidad Técnica de Babahoyo",
+    "domain": "www.utb.edu.ec",
+    "country": "Ecuador",
+    "country_code": "EC"
+  },
+  {
+    "name": "Universidad Técnica de Cotopaxi",
+    "domain": "www.utc.edu.ec",
+    "country": "Ecuador",
+    "country_code": "EC"
+  },
+  {
+    "name": "Universidad Técnica de Esmeraldas \"Luis Vargas Torres\"",
+    "domain": "www.utelvt.edu.ec",
+    "country": "Ecuador",
+    "country_code": "EC"
+  },
+  {
+    "name": "Universidad Técnica del Norte",
+    "domain": "www.utn.edu.ec",
+    "country": "Ecuador",
+    "country_code": "EC"
+  },
+  {
+    "name": "Universidad Técnica de Machala",
+    "domain": "www.utmachala.edu.ec",
+    "country": "Ecuador",
+    "country_code": "EC"
+  },
+  {
+    "name": "Universidad Técnica de Manabí",
+    "domain": "www.utm.edu.ec",
+    "country": "Ecuador",
+    "country_code": "EC"
+  },
+  {
+    "name": "Universidad Técnica Estatal de Quevedo",
+    "domain": "www.uteq.edu.ec",
+    "country": "Ecuador",
+    "country_code": "EC"
+  },
+  {
+    "name": "Universidad Técnica Particular de Loja",
+    "domain": "www.utpl.edu.ec",
+    "country": "Ecuador",
+    "country_code": "EC"
+  },
+  {
+    "name": "Universidad Tecnológica América",
+    "domain": "www.unita.edu.ec",
+    "country": "Ecuador",
+    "country_code": "EC"
+  },
+  {
+    "name": "Universidad Tecnológica Equinoccial",
+    "domain": "www.ute.edu.ec",
+    "country": "Ecuador",
+    "country_code": "EC"
+  },
+  {
+    "name": "Universidad Tecnológica Indoamérica",
+    "domain": "www.indoamerica.edu.ec",
+    "country": "Ecuador",
+    "country_code": "EC"
+  },
+  {
+    "name": "Universidad Tecnologica Israel",
+    "domain": "www.uisrael.ec",
+    "country": "Ecuador",
+    "country_code": "EC"
+  },
+  {
+    "name": "Universidad Tecnológica San Antonio de Machala",
+    "domain": "www.utsam.edu.ec",
+    "country": "Ecuador",
+    "country_code": "EC"
+  },
+  {
+    "name": "Barcelona Graduate School of Economics",
+    "domain": "www.barcelonagse.eu",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Bircham International University",
+    "domain": "www.bircham.edu",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Centro Universitario Villanueva",
+    "domain": "www.villanueva.edu",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Escuela Superior de Gestion Comercial y Marketing (ESIC)",
+    "domain": "www.esic.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Global Business School Barcelona",
+    "domain": "www.global-business-school.org",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "IE University",
+    "domain": "www.ie.edu",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Iniciativa Universidad del Atlantico",
+    "domain": "www.universidadatlantico.org",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "International University of Southern Europe",
+    "domain": "www.iuse.edu.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "La Salle Universities - International Programmes",
+    "domain": "www.lasalleuniversities.net",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Mondragon Univertsitatea",
+    "domain": "www.muni.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Schiller International University, Madrid",
+    "domain": "www.schillermadrid.edu",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universidad Abierta Interactiva",
+    "domain": "www.uniactiva.com",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universidad Alfonso X El Sabio",
+    "domain": "www.uax.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universidad Antonio de Nebrija",
+    "domain": "www.unnet.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universidad Autónoma de Madrid",
+    "domain": "www.uam.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universidad Cardenal Herrera-CEU",
+    "domain": "www.uchceu.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universidad Carlos III de Madrid",
+    "domain": "www.uc3m.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universidad Católica de Ávila",
+    "domain": "www.ucavila.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universidad Católica de Valencia",
+    "domain": "www.ucv.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universidad Católica San Antonio",
+    "domain": "www.ucam.edu",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universidad Complutense de Madrid",
+    "domain": "www.ucm.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universidad de Alcalá de Henares",
+    "domain": "www.uah.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universidad de Alicante",
+    "domain": "www.ua.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universidad de Almería",
+    "domain": "www.ualm.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universidad de Burgos",
+    "domain": "www.ubu.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universidad de Cádiz",
+    "domain": "www.uca.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universidad de Cantabria",
+    "domain": "www.unican.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universidad de Castilla La Mancha",
+    "domain": "www.uclm.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universidad de Córdoba",
+    "domain": "www.uco.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universidad de Deusto",
+    "domain": "www.deusto.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universidad de Extremadura",
+    "domain": "www.unex.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universidad de Gerona",
+    "domain": "www.udg.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universidad de Granada",
+    "domain": "www.ugr.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universidad de Huelva",
+    "domain": "www.uhu.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universidad de Jaén",
+    "domain": "www.ujaen.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universidad de La Coruña",
+    "domain": "www.udc.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universidad de La Laguna",
+    "domain": "www.ull.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universidad de La Rioja",
+    "domain": "www.unirioja.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universidad de Las Palmas de Gran Canaria",
+    "domain": "www.ulpgc.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universidad de León",
+    "domain": "www.unileon.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universidad del País Vasco",
+    "domain": "www.ehu.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universidad de Málaga",
+    "domain": "www.uma.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universidad de Murcia",
+    "domain": "www.um.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universidad de Navarra",
+    "domain": "www.unav.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universidad de Oviedo",
+    "domain": "www.uniovi.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universidad de Salamanca",
+    "domain": "www.usal.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universidad de San Pablo CEU",
+    "domain": "www.ceu.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universidad de Santiago de Compostela",
+    "domain": "www.usc.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universidad de Sevilla",
+    "domain": "www.us.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universidad de Valencia",
+    "domain": "www.uv.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universidad de Valladolid",
+    "domain": "www.uva.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universidad de Vigo",
+    "domain": "www.uvigo.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universidad de Zaragoza",
+    "domain": "www.unizar.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universidad Europea de Madrid",
+    "domain": "www.uem.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universidad Francisco de Vitoria",
+    "domain": "www.ufv.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universidad Internacional de Andalucía",
+    "domain": "www.uia.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universidad Internacional de Andalucía, Sede Antonio Machado de Baeza",
+    "domain": "www.uniaam.uia.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universidad Internacional de Andalucía, Sede La Rábida",
+    "domain": "www.uniara.uia.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universidad Internacional Menéndez Pelayo",
+    "domain": "www.uimp.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universidad Miguel Hernández de Elche",
+    "domain": "www.umh.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universidad Nacional de Educación a Distancia",
+    "domain": "www.uned.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universidad Pablo de Olavide",
+    "domain": "www.upo.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universidad Politécnica de Cartagena",
+    "domain": "www.upct.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universidad Politécnica de Cataluna",
+    "domain": "www.upc.edu",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universidad Politécnica de Madrid",
+    "domain": "www.upm.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universidad Politécnica de Valencia",
+    "domain": "www.upv.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universidad Pontificia Comillas",
+    "domain": "www.upco.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universidad Pontificia de Salamanca",
+    "domain": "www.upsa.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universidad Pública de Navarra",
+    "domain": "www.unavarra.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universidad Rey Juan Carlos",
+    "domain": "www.urjc.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universitat Autónoma de Barcelona",
+    "domain": "www.uab.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universitat de Barcelona",
+    "domain": "www.ub.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universitat de les Illes Balears",
+    "domain": "www.uib.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universitat de Lleida",
+    "domain": "www.udl.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universitat de Vic",
+    "domain": "www.uvic.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universitat Internacional de Catalunya",
+    "domain": "www.uic.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universitat Jaume I de Castellón",
+    "domain": "www.uji.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universitat Oberta de Catalunya",
+    "domain": "www.uoc.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universitat Pompeu Fabra",
+    "domain": "www.upf.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universitat Rámon Llull",
+    "domain": "www.url.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Universitat Rovira I Virgili Tarragona",
+    "domain": "www.urv.es",
+    "country": "Spain",
+    "country_code": "ES"
+  },
+  {
+    "name": "Centro Universitario Ciudad Vieja",
+    "domain": "www.cucv.edu.gt",
+    "country": "Guatemala",
+    "country_code": "GT"
+  },
+  {
+    "name": "Centro Universitario de Occidente",
+    "domain": "www.cunoc.edu.gt",
+    "country": "Guatemala",
+    "country_code": "GT"
+  },
+  {
+    "name": "Universidad del Istmo",
+    "domain": "www.unis.edu.gt",
+    "country": "Guatemala",
+    "country_code": "GT"
+  },
+  {
+    "name": "Universidad del Valle de Guatemala",
+    "domain": "www.uvg.edu.gt",
+    "country": "Guatemala",
+    "country_code": "GT"
+  },
+  {
+    "name": "Universidad de San Carlos de Guatemala",
+    "domain": "www.usac.edu.gt",
+    "country": "Guatemala",
+    "country_code": "GT"
+  },
+  {
+    "name": "Universidad Francisco Marroquín",
+    "domain": "www.ufm.edu.gt",
+    "country": "Guatemala",
+    "country_code": "GT"
+  },
+  {
+    "name": "Universidad Galileo",
+    "domain": "www.galileo.edu",
+    "country": "Guatemala",
+    "country_code": "GT"
+  },
+  {
+    "name": "Universidad Mariano Gálvez",
+    "domain": "www.umg.edu.gt",
+    "country": "Guatemala",
+    "country_code": "GT"
+  },
+  {
+    "name": "Universidad Panamericana",
+    "domain": "www.upana.edu.gt",
+    "country": "Guatemala",
+    "country_code": "GT"
+  },
+  {
+    "name": "Universidad Rafael Landívar",
+    "domain": "www.url.edu.gt",
+    "country": "Guatemala",
+    "country_code": "GT"
+  },
+  {
+    "name": "Universidad Rural de Guatemala",
+    "domain": "www.urural.edu.gt",
+    "country": "Guatemala",
+    "country_code": "GT"
+  },
+  {
+    "name": "Escuela Agricola Panamericana Zamorano",
+    "domain": "www.zamorano.edu",
+    "country": "Honduras",
+    "country_code": "HN"
+  },
+  {
+    "name": "Universidad Católica de Honduras",
+    "domain": "www.unicah.edu",
+    "country": "Honduras",
+    "country_code": "HN"
+  },
+  {
+    "name": "Universidad de San Pedro Sula",
+    "domain": "www.usps.edu.hn",
+    "country": "Honduras",
+    "country_code": "HN"
+  },
+  {
+    "name": "Universidad José Cecilio del Valle",
+    "domain": "www.ujcv.edu.hn",
+    "country": "Honduras",
+    "country_code": "HN"
+  },
+  {
+    "name": "Universidad Metropolitana de Honduras",
+    "domain": "www.unimetro.edu.hn",
+    "country": "Honduras",
+    "country_code": "HN"
+  },
+  {
+    "name": "Universidad Nacional Autónoma de Honduras",
+    "domain": "www.unah.edu.hn",
+    "country": "Honduras",
+    "country_code": "HN"
+  },
+  {
+    "name": "Universidad Pedagógica Nacional \"Francisco Morazán\"",
+    "domain": "www.upnfm.edu.hn",
+    "country": "Honduras",
+    "country_code": "HN"
+  },
+  {
+    "name": "Universidad Tecnológica Centroamericana",
+    "domain": "www.unitec.edu",
+    "country": "Honduras",
+    "country_code": "HN"
+  },
+  {
+    "name": "Universidad Tecnológica de Honduras",
+    "domain": "www.uth.hn",
+    "country": "Honduras",
+    "country_code": "HN"
+  },
+  {
+    "name": "Benemerita Universidad Autónoma de Puebla",
+    "domain": "www.buap.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Centro de Enseñanza Técnica Industrial",
+    "domain": "www.ceti.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Centro de Estudios Universitarios Monterrey",
+    "domain": "www.ceu.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Centro de Estudios Universitarios Xochicalco",
+    "domain": "www.ceux.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Centro Universitario Ixtlahuaca",
+    "domain": "www.ceunix.com.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "CETYS Universidad",
+    "domain": "www.cetys.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Dirección General de Institutos Tecnológicos",
+    "domain": "www.dgit.gob.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "El Colegio de México",
+    "domain": "www.colmex.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Escuela Bancaria y Comercial",
+    "domain": "www.ebc.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Escuela Nacional de Estudios Superiores Unidad León",
+    "domain": "www.enes.unam.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Instituto de Estudios Superiores de la Sierra",
+    "domain": "www.ties.com.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Instituto Politécnico Nacional",
+    "domain": "www.ipn.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Instituto Politécnico Nacional, Campus Guanajuato",
+    "domain": "www.upiig.ipn.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Instituto Tecnológico Autonómo de México",
+    "domain": "www.itam.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Instituto Tecnológico de Aguascalientes",
+    "domain": "www.ita.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Instituto Tecnológico de Celaya",
+    "domain": "www.itc.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Instituto Tecnologico de Durango",
+    "domain": "www.itdurango.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Instituto Tecnológico de León",
+    "domain": "www.itleon.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Instituto Tecnologico de Minatitlan",
+    "domain": "www.itmina.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Instituto Tecnológico de Morelia",
+    "domain": "www.itmorelia.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Instituto Tecnológico de Querétaro",
+    "domain": "www.itq.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Instituto Tecnológico de San Luis Potosí",
+    "domain": "www.itslp.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Instituto Tecnológico de Sonora",
+    "domain": "www.itson.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM)",
+    "domain": "www.itesm.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Instituto Tecnológico y de Estudios Superiores de Occidente",
+    "domain": "www.iteso.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Politécnico de Guanajuato",
+    "domain": "www.poligto.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Tecnologico de Baja California, Universidad",
+    "domain": "www.tecbc.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Anáhuac",
+    "domain": "www.anahuac.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Anáhuac del Sur",
+    "domain": "www.uas.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Autónoma Agraria \"Antonio Narro\"",
+    "domain": "www.uaaan.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Autónoma \"Benito Juárez\" de Oaxaca",
+    "domain": "www.uabjo.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Autónoma de Aguascalientes",
+    "domain": "www.uaa.mx:8001",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Autónoma de Baja California",
+    "domain": "www.uabc.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Autónoma de Baja California Sur",
+    "domain": "www.uabcs.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Autónoma de Campeche",
+    "domain": "www.uacam.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Autónoma de Chapingo",
+    "domain": "www.chapingo.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Autónoma de Chiapas",
+    "domain": "www.unach.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Autónoma de Chihuahua",
+    "domain": "www.uach.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Autónoma de Ciudad Juárez",
+    "domain": "www.uacj.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Autónoma de Coahuila",
+    "domain": "www.uadec.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Autonoma  de Durango",
+    "domain": "www.uad.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Autónoma de Fresnillo",
+    "domain": "www.uaf.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Autónoma de Guadalajara",
+    "domain": "www.uag.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Autónoma de Guerrero",
+    "domain": "www.uagro.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Autónoma de la Ciudad de México",
+    "domain": "www.uacm.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Autónoma de la Laguna",
+    "domain": "www.ual.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Autónoma del Carmen",
+    "domain": "www.unacar.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Autónoma del Estado de Hidalgo",
+    "domain": "www.reduaeh.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Autónoma del Estado de México",
+    "domain": "www.uaemex.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Autónoma del Estado de Morelos",
+    "domain": "www.uaem.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Autónoma del Noreste",
+    "domain": "www.uane.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Autónoma de Nayarit",
+    "domain": "www.uan.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Autónoma de Nuevo León",
+    "domain": "www.uanl.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Autónoma de Querétaro",
+    "domain": "www.uaq.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Autónoma de San Luis Potosí",
+    "domain": "www.uaslp.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Autónoma de Sinaloa",
+    "domain": "www.uasnet.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Autónoma de Tamaulipas",
+    "domain": "www.uat.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Autónoma de Tlaxcala",
+    "domain": "www.uatx.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Autónoma de Veracruz Villa Rica",
+    "domain": "www.univillarica.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Autónoma de Yucatán",
+    "domain": "www.uady.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Autónoma de Zacatecas",
+    "domain": "www.reduaz.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Autonoma España de Durango",
+    "domain": "www.uaed.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Autónoma Metropolitana",
+    "domain": "www.uam.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Autónoma Metropolitana - Azcapotzalco",
+    "domain": "www-azc.uam.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Autónoma Metropolitana - Iztapalapa",
+    "domain": "www.iztapalapa.uam.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Autónoma Metropolitana - Xochimilco",
+    "domain": "cueyatl.uam.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Champagnat",
+    "domain": "www.champagnat.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Chapultepéc",
+    "domain": "www.univchapultepec.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Cientifica Latinoamericana de Hidalgo",
+    "domain": "www.uclah.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Cristóbal Colón",
+    "domain": "www.ver.ucc.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Cuauhtémoc",
+    "domain": "www.cuauhtemoc.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad de Celaya",
+    "domain": "www.udec.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad de Ciencias y Artes de Chiapas",
+    "domain": "www.unicach.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad de Colima",
+    "domain": "www.ucol.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad de Comunicación Avanzada",
+    "domain": "www.unica.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad de Cuautitlan Izcalli",
+    "domain": "www.udeci.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad de Guadalajara",
+    "domain": "www.udg.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad de Guanajuato",
+    "domain": "www.ugto.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad de Guanajuato, Campus León",
+    "domain": "www.campusleon.ugto.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad de Hermosillo",
+    "domain": "www.udeh.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad de La Salle, Bajío",
+    "domain": "bajio.delasalle.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad de las Américas",
+    "domain": "www.udla.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad de las Américas - Puebla",
+    "domain": "www.udlap.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad de la Sierra A.C.",
+    "domain": "www.usac.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad del Bajío",
+    "domain": "www.ubac.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad del Centro de México",
+    "domain": "www.ucem.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad de León",
+    "domain": "www.universidaddeleon.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad del Mar",
+    "domain": "www.umar.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad del Mayab",
+    "domain": "www.unimayab.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad del Noreste",
+    "domain": "www.une.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad del Noroeste",
+    "domain": "www.uno.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad del Norte",
+    "domain": "www.un.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad del Tepeyac",
+    "domain": "www.tepeyac.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad del Valle de Atemajac",
+    "domain": "www.univa.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad del Valle del Bravo",
+    "domain": "www.uvb.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad del Valle de México",
+    "domain": "www.uvmnet.edu",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad del Valle de Puebla",
+    "domain": "members.rotfl.com/uvp",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad del Valle de Toluca",
+    "domain": "www.uvt.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad de Montemorelos",
+    "domain": "www.umontemorelos.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad de Monterrey",
+    "domain": "www.udem.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad de Norteamerica",
+    "domain": "www.un.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad de Occidente",
+    "domain": "www.udo.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad de Quintana Roo",
+    "domain": "www.uqroo.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad de San Miguel",
+    "domain": "www.udesanmiguel.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad de Sonora",
+    "domain": "www.uson.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Don Vasco",
+    "domain": "www.udv.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad España de Durango",
+    "domain": "www.unes.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Franciscana de México",
+    "domain": "www.ufm.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Franco-Mexicana",
+    "domain": "www.ufram.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Fray Luca Paccioli",
+    "domain": "www.frayluca.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Hispanoamericana",
+    "domain": "hispano.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Iberoamericana",
+    "domain": "www.uia.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Iberoamericana, Campus León",
+    "domain": "www.leon.uia.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Insurgentes Plantel León",
+    "domain": "www.uileon.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Intercontinental",
+    "domain": "www.uic.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Itaca",
+    "domain": "www.i.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Jóse Vasconcelos",
+    "domain": "www.univas.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Juárez Autónoma de Tabasco",
+    "domain": "www.ujat.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Juárez del Estado de Durango",
+    "domain": "www.ujed.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Justo Sierra",
+    "domain": "www.ujsierra.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Kino",
+    "domain": "www.unikino.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad la Concordia",
+    "domain": "www.universidadlaconcordia.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad La Salle",
+    "domain": "www.ulsa.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad La Salle Cuernavaca",
+    "domain": "www.ulsac.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Lasallista Benavente",
+    "domain": "www.ulsab.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Latina",
+    "domain": "www.unla.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Latinoamericana",
+    "domain": "www.ula.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Madero",
+    "domain": "www.umad.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Mesoamericana de San Agustín",
+    "domain": "www.umsa.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Metropolitana de Monterrey",
+    "domain": "www.umm.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Metropolitana Latin Campus",
+    "domain": "www.umla.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Mexicana",
+    "domain": "www.unimex.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Mexicana del Noreste",
+    "domain": "www.umne.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad México Americana del Norte",
+    "domain": "www.uman.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad México Internacional",
+    "domain": "www.umi.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Michoacana de San Nicolás de Hidalgo",
+    "domain": "www.umich.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Motolinía del Pedegral",
+    "domain": "www.universidadmotolinia.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Motolinía del Pedregal",
+    "domain": "www.motolinia.com.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Nacional Autónoma de México",
+    "domain": "www.unam.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Nuevo Mundo",
+    "domain": "www.unum.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Obrera de Mexico",
+    "domain": "www.uom.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Olmeca",
+    "domain": "www.olmeca.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Panamericana",
+    "domain": "www.up.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Pedagógica Nacional",
+    "domain": "www.upn.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Pedagógica Nacional, Unidad León",
+    "domain": "www.lef.upn.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Pedagógica Veracruzana",
+    "domain": "www.secupv.org",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Popular Autonóma del Estado de Puebla",
+    "domain": "www.upaep.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Regiomontana",
+    "domain": "www.ur.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Regional del Sureste",
+    "domain": "www.urse.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Regional Miguel Hidalgo",
+    "domain": "www.urmh.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Salesiana",
+    "domain": "www.universidadsalesiana.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Santa Fe",
+    "domain": "www.usf.com.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Simón Bolivar",
+    "domain": "www.usb.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Tecnologica de la Mixteca",
+    "domain": "www.utm.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Tecnológica de México",
+    "domain": "www.unitec.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Tecnologica de Nezahualcoyotl",
+    "domain": "www.utneza.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Valle del Grijalva",
+    "domain": "www.uvg1.net",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Veracruzana",
+    "domain": "www.uv.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Universidad Xicotepetl",
+    "domain": "www.uxac.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Westhill University",
+    "domain": "www.westhill.edu.mx",
+    "country": "Mexico",
+    "country_code": "MX"
+  },
+  {
+    "name": "Columbus University",
+    "domain": "www.columbus.edu",
+    "country": "Panama",
+    "country_code": "PA"
+  },
+  {
+    "name": "Floret Global University",
+    "domain": "www.floret.edu.pa",
+    "country": "Panama",
+    "country_code": "PA"
+  },
+  {
+    "name": "Instituto de Enseñanza Superior Oteima",
+    "domain": "www.institutoteima.ac.pa",
+    "country": "Panama",
+    "country_code": "PA"
+  },
+  {
+    "name": "Universidad Abierta y a Distancia de Panama",
+    "domain": "www.unadp.ac.pa",
+    "country": "Panama",
+    "country_code": "PA"
+  },
+  {
+    "name": "Universidad Autonoma de Chiriqui",
+    "domain": "www.unachi.ac.pa",
+    "country": "Panama",
+    "country_code": "PA"
+  },
+  {
+    "name": "Universidad Católica Santa María La Antigua",
+    "domain": "www.usma.ac.pa",
+    "country": "Panama",
+    "country_code": "PA"
+  },
+  {
+    "name": "Universidad de Cartago",
+    "domain": "www.ucapanama.org",
+    "country": "Panama",
+    "country_code": "PA"
+  },
+  {
+    "name": "Universidad del Istmo",
+    "domain": "www.udi.edu",
+    "country": "Panama",
+    "country_code": "PA"
+  },
+  {
+    "name": "Universidad de Panamá",
+    "domain": "www.up.ac.pa",
+    "country": "Panama",
+    "country_code": "PA"
+  },
+  {
+    "name": "Universidad Especializada de Las Americas",
+    "domain": "www.udelas.ac.pa",
+    "country": "Panama",
+    "country_code": "PA"
+  },
+  {
+    "name": "Universidad Interamericana de Educacion a Distancia de Panama",
+    "domain": "www.uniedpa.com",
+    "country": "Panama",
+    "country_code": "PA"
+  },
+  {
+    "name": "Universidad Latina de Panamá",
+    "domain": "www.ulat.ac.pa",
+    "country": "Panama",
+    "country_code": "PA"
+  },
+  {
+    "name": "Universidad Latinoamericana de Ciencia y Tecnologia, Panamá",
+    "domain": "www.ulacit.ac.pa",
+    "country": "Panama",
+    "country_code": "PA"
+  },
+  {
+    "name": "Universidad Tecnológica de Panamá",
+    "domain": "www.utp.ac.pa",
+    "country": "Panama",
+    "country_code": "PA"
+  },
+  {
+    "name": "Universidad Tecnológica Oteima",
+    "domain": "www.oteima.ac.pa",
+    "country": "Panama",
+    "country_code": "PA"
+  },
+  {
+    "name": "Victoria International University",
+    "domain": "www.viu.edu.pa",
+    "country": "Panama",
+    "country_code": "PA"
+  },
+  {
+    "name": "West Coast University (WCU)",
+    "domain": "www.westcoastuniversity-edu.com",
+    "country": "Panama",
+    "country_code": "PA"
+  },
+  {
+    "name": "Pontificia Universidad Católica del Perú",
+    "domain": "www.pucp.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad Alas Peruanas",
+    "domain": "www.uap.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad Andina del Cusco",
+    "domain": "www.uandina.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad Andina Nestor Caceares Velasquez",
+    "domain": "www.uancv.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad Católica de Santa María",
+    "domain": "www.ucsm.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad Católica Santo Toribio de Mogrovejo",
+    "domain": "www.usat.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad César Vallejo",
+    "domain": "www.ucv.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad Cientifica del Sur",
+    "domain": "www.ucsur.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad de Chiclayo",
+    "domain": "www.udch.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad de Ciencias y Humanidades",
+    "domain": "www.uch.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad de Huánuco",
+    "domain": "www.udh.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad de Lambayeque",
+    "domain": "www.udl.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad de Lima",
+    "domain": "www.ulima.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad del Pacifico",
+    "domain": "www.up.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad de Piura",
+    "domain": "www.udep.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad Femenina del Sagrado Corazón",
+    "domain": "www.unife.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad Los Angeles de Chimbote",
+    "domain": "www.uladech.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad Marcelino Champagnat",
+    "domain": "www.champagnat.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad Nacional Agraria de la Selva",
+    "domain": "www.unas.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad Nacional Agraria La Molina",
+    "domain": "www.lamolina.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad Nacional Agraria La Selva",
+    "domain": "www.unas.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad Nacional Daniel Alcides Carrion",
+    "domain": "www.undac.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad Nacional de Cajamarca",
+    "domain": "www.unc.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad Nacional de Educación Enrique Guzmán y Valle",
+    "domain": "www.une.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad Nacional de Ingeniería",
+    "domain": "www.uni.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad Nacional de la Amazonía Peruana",
+    "domain": "www.unapiquitos.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad Nacional de La Libertad, Trujillo",
+    "domain": "www.unitru.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad Nacional del Altiplano",
+    "domain": "www.unap.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad Nacional del Callao",
+    "domain": "www.unac.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad Nacional del Centro del Perú",
+    "domain": "www.uncp.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad Nacional de Piura",
+    "domain": "www.unp.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad Nacional de San Agustin",
+    "domain": "www.unsa.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad Nacional de San Antonio Abad",
+    "domain": "www.unsaac.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad Nacional de San Cristóbal de Huamanga",
+    "domain": "www.unsch.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad Nacional de San Martín",
+    "domain": "www.unsm.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad Nacional de Santa - Chimbote",
+    "domain": "www.uns.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad Nacional de Tumbes",
+    "domain": "www.untumbes.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad Nacional de Ucayali",
+    "domain": "www.unu.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad Nacional Federico Villarreal",
+    "domain": "www.unfv.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad Nacional Hermilio Valdizan",
+    "domain": "www.unheval.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad Nacional Jorge Basadre Grohmann",
+    "domain": "www.unjbg.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad Nacional José Faustino Sánchez Carrión",
+    "domain": "www.unjfsc.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad Nacional Mayor de San Marcos",
+    "domain": "www.unmsm.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad Nacional Pedro Ruíz Gallo",
+    "domain": "www.unprg.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad Nacional San Luis Gonzaga",
+    "domain": "www.unica.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad Nacional Santiago Antúnez de Mayolo",
+    "domain": "www.unasam.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad Norbert Wiener",
+    "domain": "www.uwiener.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad Particular de Chiclayo",
+    "domain": "www.udch.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad Particular Inca Garcilaso de la Vega",
+    "domain": "www.uigv.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad Peruana Cayetano Heredia",
+    "domain": "www.upch.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad Peruana de Ciencias Aplicadas",
+    "domain": "www.upc.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad Peruana de Ciencias e Informática",
+    "domain": "www.upci.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad Peruana Union",
+    "domain": "www.upeu.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad Privada Antenor Orrego",
+    "domain": "www.upao.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad Privada del Norte",
+    "domain": "www.upnorte.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad Privada de Tacna",
+    "domain": "www.upt.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad Privada Juan Mejía Baca",
+    "domain": "www.umb.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad Privada Los Andes",
+    "domain": "www.upla.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad Privada San Juan Bautista",
+    "domain": "www.upsjb.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad Privada San Pedro",
+    "domain": "www.usanpedro.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad Privada Sergio Bernales",
+    "domain": "www.upsb.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad Ricardo Palma",
+    "domain": "www.urp.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad San Ignacio de Loyola",
+    "domain": "www.sil.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad San Martin de Porres",
+    "domain": "www.usmp.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad San Pablo",
+    "domain": "www.usp.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad Señor de Sipán",
+    "domain": "www.uss.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad Tecnológica de los Andes de Apurímac",
+    "domain": "www.utea.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad Tecnológica del Peru",
+    "domain": "www.utp.edu.pe",
+    "country": "Peru",
+    "country_code": "PE"
+  },
+  {
+    "name": "Universidad Americana",
+    "domain": "www.uamericana.edu.py",
+    "country": "Paraguay",
+    "country_code": "PY"
+  },
+  {
+    "name": "Universidad Autónoma de Asunción",
+    "domain": "www.uaa.edu.py",
+    "country": "Paraguay",
+    "country_code": "PY"
+  },
+  {
+    "name": "Universidad Autónoma del Paraguay",
+    "domain": "www.uap.edu.py",
+    "country": "Paraguay",
+    "country_code": "PY"
+  },
+  {
+    "name": "Universidad Católica Nuestra Senora de la Asunción",
+    "domain": "www.uc.edu.py",
+    "country": "Paraguay",
+    "country_code": "PY"
+  },
+  {
+    "name": "Universidad Columbia del Paraguay",
+    "domain": "www.columbia.edu.py",
+    "country": "Paraguay",
+    "country_code": "PY"
+  },
+  {
+    "name": "Universidad Comunera",
+    "domain": "www.ucom.edu.py",
+    "country": "Paraguay",
+    "country_code": "PY"
+  },
+  {
+    "name": "Universidad de la Integración de las Americas (UNIDAD)",
+    "domain": "www.unida.edu.py",
+    "country": "Paraguay",
+    "country_code": "PY"
+  },
+  {
+    "name": "Universidad del Cono Sur de las Américas",
+    "domain": "www.ucsa.edu.py",
+    "country": "Paraguay",
+    "country_code": "PY"
+  },
+  {
+    "name": "Universidad del Norte",
+    "domain": "www.uninorte.edu.py",
+    "country": "Paraguay",
+    "country_code": "PY"
+  },
+  {
+    "name": "Universidad Metropolitana de Asunción",
+    "domain": "www.uma.edu.py",
+    "country": "Paraguay",
+    "country_code": "PY"
+  },
+  {
+    "name": "Universidad Nacional de Asunción",
+    "domain": "www.una.py",
+    "country": "Paraguay",
+    "country_code": "PY"
+  },
+  {
+    "name": "Universidad Nacional del Este",
+    "domain": "www.une.edu.py",
+    "country": "Paraguay",
+    "country_code": "PY"
+  },
+  {
+    "name": "Universidad Privada del Este",
+    "domain": "www.upe.edu.py",
+    "country": "Paraguay",
+    "country_code": "PY"
+  },
+  {
+    "name": "Universidad Albert Einstein",
+    "domain": "www.uae.edu.sv",
+    "country": "El Salvador",
+    "country_code": "SV"
+  },
+  {
+    "name": "Universidad Autónoma de Santa Ana",
+    "domain": "www.unasa.edu.sv",
+    "country": "El Salvador",
+    "country_code": "SV"
+  },
+  {
+    "name": "Universidad Capitain General Gerardo Barrios",
+    "domain": "www.ugb.edu.sv",
+    "country": "El Salvador",
+    "country_code": "SV"
+  },
+  {
+    "name": "Universidad Católica de Occidente",
+    "domain": "www.unico.edu.sv",
+    "country": "El Salvador",
+    "country_code": "SV"
+  },
+  {
+    "name": "Universidad Centroamericana \"José Simeón Canas\"",
+    "domain": "www.uca.edu.sv",
+    "country": "El Salvador",
+    "country_code": "SV"
+  },
+  {
+    "name": "Universidad Cristiana de las Asambleas de Dios",
+    "domain": "www.ucad.edu.sv",
+    "country": "El Salvador",
+    "country_code": "SV"
+  },
+  {
+    "name": "Universidad de El Salvador",
+    "domain": "www.ues.edu.sv",
+    "country": "El Salvador",
+    "country_code": "SV"
+  },
+  {
+    "name": "Universidad de Oriente",
+    "domain": "www.univo.edu.sv",
+    "country": "El Salvador",
+    "country_code": "SV"
+  },
+  {
+    "name": "Universidad de Sonsonate",
+    "domain": "www.usonsonate.edu.sv",
+    "country": "El Salvador",
+    "country_code": "SV"
+  },
+  {
+    "name": "Universidad Don Bosco",
+    "domain": "www.cdb.edu.sv",
+    "country": "El Salvador",
+    "country_code": "SV"
+  },
+  {
+    "name": "Universidad Dr. Andreas Bello",
+    "domain": "www.unab.edu.sv",
+    "country": "El Salvador",
+    "country_code": "SV"
+  },
+  {
+    "name": "Universidad Dr. Jose Matias Delgado",
+    "domain": "www.ujmd.edu.sv",
+    "country": "El Salvador",
+    "country_code": "SV"
+  },
+  {
+    "name": "Universidad Evangélica de El Salvador",
+    "domain": "www.uees.edu.sv",
+    "country": "El Salvador",
+    "country_code": "SV"
+  },
+  {
+    "name": "Universidad Francisco Gavidia",
+    "domain": "www.ufg.edu.sv",
+    "country": "El Salvador",
+    "country_code": "SV"
+  },
+  {
+    "name": "Universidad Isaac Newton",
+    "domain": "www.usin.edu.sv",
+    "country": "El Salvador",
+    "country_code": "SV"
+  },
+  {
+    "name": "Universidad Luterana Salvadorena",
+    "domain": "www.netcomsa.com/uls",
+    "country": "El Salvador",
+    "country_code": "SV"
+  },
+  {
+    "name": "Universidad Modular Abierta",
+    "domain": "www.uma.edu.sv",
+    "country": "El Salvador",
+    "country_code": "SV"
+  },
+  {
+    "name": "Universidad Monsenor Oscar Arnulfo Romeo",
+    "domain": "www.umoar.edu.sv",
+    "country": "El Salvador",
+    "country_code": "SV"
+  },
+  {
+    "name": "Universidad Nueva San Salvador",
+    "domain": "www.unssa.edu.sv",
+    "country": "El Salvador",
+    "country_code": "SV"
+  },
+  {
+    "name": "Universidad Panamericana de San Salvador",
+    "domain": "www.upan.edu.sv",
+    "country": "El Salvador",
+    "country_code": "SV"
+  },
+  {
+    "name": "Universidad Pedagógica de El Salvador",
+    "domain": "www.universidadpedagogica.com",
+    "country": "El Salvador",
+    "country_code": "SV"
+  },
+  {
+    "name": "Universidad Politécnica de El Salvador",
+    "domain": "www.upes.edu.sv",
+    "country": "El Salvador",
+    "country_code": "SV"
+  },
+  {
+    "name": "Universidad Salvadorena \"Alberto Masferrer\"",
+    "domain": "www.usam.edu.sv",
+    "country": "El Salvador",
+    "country_code": "SV"
+  },
+  {
+    "name": "Universidad Técnica Latinoamericana",
+    "domain": "www.utla.edu.sv",
+    "country": "El Salvador",
+    "country_code": "SV"
+  },
+  {
+    "name": "Universidad Tecnológica de El Salvador",
+    "domain": "www.utec.edu.sv",
+    "country": "El Salvador",
+    "country_code": "SV"
+  },
+  {
+    "name": "Abant Izzet Baysal University",
+    "domain": "www.ibu.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Adnan Menderes University",
+    "domain": "www.adu.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Afyon Kocatepe University",
+    "domain": "www.aku.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Ahi Evran University",
+    "domain": "www.ahievran.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Akdeniz University",
+    "domain": "www.akdeniz.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Anadolu University",
+    "domain": "www.anadolu.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Ankara University",
+    "domain": "www.ankara.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Atatürk University",
+    "domain": "www.atauni.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Atilim University",
+    "domain": "www.atilim.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Bahcesehir University",
+    "domain": "www.bahcesehir.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Balikesir University",
+    "domain": "www.balikesir.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Baskent University",
+    "domain": "www.baskent.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Beykent University",
+    "domain": "www.beykent.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Bilecik University",
+    "domain": "www.bilecik.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Bilkent University",
+    "domain": "www.bilkent.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Bogazici University",
+    "domain": "www.boun.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Cag University",
+    "domain": "www.cag.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Canakkale (18th March) University",
+    "domain": "www.comu.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Cankaya University",
+    "domain": "www.cankaya.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Celal Bayar University",
+    "domain": "www.bayar.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Cukurova University",
+    "domain": "www.cu.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Cumhuriyet (Republik) University",
+    "domain": "www.cumhuriyet.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Dicle (Tirgris) University",
+    "domain": "www.dicle.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Dogus University",
+    "domain": "www.dogus.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Dokuz Eylül University",
+    "domain": "www.deu.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Dumlupinar University",
+    "domain": "www.dumlupinar.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Ege University",
+    "domain": "www.ege.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Erciyes University",
+    "domain": "www.erciyes.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Fatih University",
+    "domain": "www.fatih.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Firat (Euphrates) University",
+    "domain": "www.firat.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Galatasaray University",
+    "domain": "www.gsu.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Gaziantep University",
+    "domain": "www.gantep.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Gaziosmanpasa University",
+    "domain": "www.gop.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Gazi University Ankara",
+    "domain": "www.gazi.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Gebze Institute of Technology",
+    "domain": "www.gyte.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Gediz University",
+    "domain": "www.gediz.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Gulhane Military Medical Academy",
+    "domain": "www.gata.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Hacettepe University",
+    "domain": "www.hun.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Halic University",
+    "domain": "www.halic.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Harran University",
+    "domain": "www.harran.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Iasar University",
+    "domain": "www.yasar.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Inönü University",
+    "domain": "www.inonu.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Isik University",
+    "domain": "www.isikun.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Istanbul Arel University",
+    "domain": "www.arel.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Istanbul Bilgi University",
+    "domain": "www.ibun.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Istanbul Kultur University",
+    "domain": "www.iku.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "İstanbul Şehir University",
+    "domain": "www.sehir.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Istanbul Technical University",
+    "domain": "www.itu.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Istanbul Ticaret University",
+    "domain": "www.iticu.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Istanbul University",
+    "domain": "www.istanbul.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Izmir Economic University",
+    "domain": "www.izmirekonomi.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Izmir Institute of Technology",
+    "domain": "www.iyte.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Kadir Has University",
+    "domain": "www.khas.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Kafkas University",
+    "domain": "www.kafkas.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Kahramanmaras Sütcü Imam University",
+    "domain": "www.ksu.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Karadeniz Technical University",
+    "domain": "www.ktu.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Kilis 7 Aralık University",
+    "domain": "www.kilis.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Kirikkale University",
+    "domain": "www.kku.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Kocaeli University",
+    "domain": "www.kou.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Koc University",
+    "domain": "www.ku.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Maltepe University",
+    "domain": "www.maltepe.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Marmara University",
+    "domain": "www.marmara.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Mersin University",
+    "domain": "www.mersin.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Middle East Technical University",
+    "domain": "www.odtu.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Mimar Sinan University",
+    "domain": "www.msu.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Mugla University",
+    "domain": "www.mu.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Mustafa Kemal University",
+    "domain": "www.mku.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Namik Kemal University",
+    "domain": "www.nku.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Necmettin Erbakan University",
+    "domain": "www.konya.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Nigde University",
+    "domain": "www.nigde.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Ondokuz Mayis University Samsun",
+    "domain": "www.omu.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Osmangazi University",
+    "domain": "www.ogu.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Ozyegin University",
+    "domain": "www.ozyegin.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Pamukkale University",
+    "domain": "www.pamukkale.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Sabanci University",
+    "domain": "www.sabanciuniv.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Sakarya University",
+    "domain": "www.sau.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Selcuk University",
+    "domain": "www.selcuk.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Suleyman Demirel University",
+    "domain": "www.sdu.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Tobb Economics and Technology University",
+    "domain": "www.etu.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Trakya University",
+    "domain": "www.trakya.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Türkisch-Deutsche Universität",
+    "domain": "www.tau.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Turkish Military Academy",
+    "domain": "www.kho.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Turkish Naval Academy",
+    "domain": "www.dho.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Ufuk University",
+    "domain": "www.ufuk.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Uludag University",
+    "domain": "www.uludag.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Yalova University",
+    "domain": "www.yalova.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Yasar University",
+    "domain": "www.yasar.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Yeditepe University",
+    "domain": "www.yeditepe.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Yildirim Beyazit University",
+    "domain": "www.ybu.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Yildiz Technical University",
+    "domain": "www.yildiz.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Yüzüncü Yil (Centennial) University",
+    "domain": "www.yyu.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Zonguldak Karaelmas University",
+    "domain": "www.karaelmas.edu.tr",
+    "country": "Turkey",
+    "country_code": "TR"
+  },
+  {
+    "name": "Insituto Universitario - Centro Latinoamericano de Economia Humana - IU Claeh",
+    "domain": "www.claeh.edu.uy",
+    "country": "Uruguay",
+    "country_code": "UY"
+  },
+  {
+    "name": "Universidad Católica del Uruguay",
+    "domain": "www.ucu.edu.uy",
+    "country": "Uruguay",
+    "country_code": "UY"
+  },
+  {
+    "name": "Universidad de la Empresa (UDE)",
+    "domain": "www.ude.edu.uy",
+    "country": "Uruguay",
+    "country_code": "UY"
+  },
+  {
+    "name": "Universidad de la República",
+    "domain": "www.universidad.edu.uy",
+    "country": "Uruguay",
+    "country_code": "UY"
+  },
+  {
+    "name": "Universidad de Montevideo",
+    "domain": "www.um.edu.uy",
+    "country": "Uruguay",
+    "country_code": "UY"
+  },
+  {
+    "name": "Universidad ORT Uruguay",
+    "domain": "www.ort.edu.uy",
+    "country": "Uruguay",
+    "country_code": "UY"
+  }
+]

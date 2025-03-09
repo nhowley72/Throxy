@@ -1,0 +1,173 @@
+[
+  {
+    "name": "Instituto de Enseñanza Superior del Ejército",
+    "domain": "www.iese.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR",
+    "university_type": "public",
+    "language_centre": false
+  },
+  {
+    "name": "Instituto Nacional de Educación Física \"General Manuel Belgrano\"",
+    "domain": "www.unlu.edu.ar/Belgrano.htm",
+    "country": "Argentina",
+    "country_code": "AR",
+    "university_type": "public",
+    "language_centre": false
+  },
+  {
+    "name": "Instituto Tecnológico de Buenos Aires",
+    "domain": "www.itba.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR",
+    "linkedin_url": "https://www.linkedin.com/school/itba/",
+    "student_population": 3000,
+    "university_type": "private",
+    "language_centre": true
+  },
+  {
+    "name": "Instituto Universitario Aeronáutico",
+    "domain": "www.iua.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR",
+    "university_type": "public",
+    "language_centre": true
+  },
+  {
+    "name": "Instituto Universitario CEMA",
+    "domain": "www.cema.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR",
+    "linkedin_url": "https://www.linkedin.com/school/universidad-del-cema/",
+    "university_type": "private",
+    "language_centre": false
+  },
+  {
+    "name": "Instituto Universitario de Ciencias de la Salud Fundación H.A. Barceló",
+    "domain": "www.barcelo.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR",
+    "linkedin_url": "https://www.linkedin.com/school/instituto-universitario-de-ciencias-de-la-salud-fundaci%C3%B3n-h.-a.-barcel%C3%B3/",
+    "university_type": "private",
+    "language_centre": true
+  },
+  {
+    "name": "Instituto Universitario de Estudios Navales y Marítimos",
+    "domain": "www.inun.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR"
+  },
+  {
+    "name": "Instituto Universitario de la Policia Federal",
+    "domain": "www.universidad-policial.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR",
+    "university_type": "public"
+  },
+  {
+    "name": "Instituto Universitario Nacional del Arte",
+    "domain": "www.iuna.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR",
+    "university_type": "public",
+    "language_centre": false
+  },
+  {
+    "name": "Universidad Abierta Interamericana",
+    "domain": "www.vaneduc.edu.ar/uai",
+    "country": "Argentina",
+    "country_code": "AR",
+    "linkedin_url": "https://www.linkedin.com/school/universidad-abierta-interamericana/",
+    "university_type": "private",
+    "language_centre": true
+  },
+  {
+    "name": "Universidad Adventista del Plata",
+    "domain": "www.uapar.edu",
+    "country": "Argentina",
+    "country_code": "AR",
+    "university_type": "private",
+    "language_centre": true
+  },
+  {
+    "name": "Universidad Argentina de la Empresa",
+    "domain": "www.uade.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR",
+    "linkedin_url": "https://www.linkedin.com/school/uade/",
+    "student_population": 18000,
+    "university_type": "private",
+    "language_centre": true
+  },
+  {
+    "name": "Universidad Argentina \"John F. Kennedy\"",
+    "domain": "www.kennedy.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR",
+    "university_type": "private",
+    "language_centre": true
+  },
+  {
+    "name": "Universidad Atlantida Argentina",
+    "domain": "www.atlantida.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR",
+    "university_type": "private",
+    "language_centre": true
+  },
+  {
+    "name": "Universidad Austral Buenos Aires",
+    "domain": "www.austral.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR",
+    "linkedin_url": "https://www.linkedin.com/school/universidad-austral/",
+    "student_population": 10000,
+    "university_type": "private",
+    "language_centre": true
+  },
+  {
+    "name": "Universidad Autónoma de Entre Ríos",
+    "domain": "www.uader.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR",
+    "university_type": "public",
+    "language_centre": true
+  },
+  {
+    "name": "Universidad Blas Pascal",
+    "domain": "www.ubp.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR",
+    "linkedin_url": "https://www.linkedin.com/school/universidad-blas-pascal/",
+    "university_type": "private",
+    "language_centre": true
+  },
+  {
+    "name": "Universidad CAECE, Buenos Aires",
+    "domain": "www.caece.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR",
+    "linkedin_url": "https://www.linkedin.com/school/universidad-caece/",
+    "university_type": "private",
+    "language_centre": true
+  },
+  {
+    "name": "Universidad Católica Argentina Santa Maria de los Buenos Aires",
+    "domain": "www.uca.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR",
+    "linkedin_url": "https://www.linkedin.com/school/universidad-catolica-argentina/",
+    "student_population": 20000,
+    "university_type": "private",
+    "language_centre": true
+  },
+  {
+    "name": "Universidad Católica de Córdoba",
+    "domain": "www.uccor.edu.ar",
+    "country": "Argentina",
+    "country_code": "AR",
+    "linkedin_url": "https://www.linkedin.com/school/universidad-catolica-de-cordoba/",
+    "university_type": "private",
+    "language_centre": true
+  }
+]

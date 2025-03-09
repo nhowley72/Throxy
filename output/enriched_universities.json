@@ -1,0 +1,26 @@
+[
+  {
+    "domain": "uba.ar",
+    "name": "Universidad de Buenos Aires",
+    "linkedin_url": "https://www.linkedin.com/school/universidad-de-buenos-aires/",
+    "student_population": 320000,
+    "university_type": "public",
+    "language_centre": true
+  },
+  {
+    "domain": "unam.mx",
+    "name": "Universidad Nacional Autónoma de México",
+    "linkedin_url": "https://www.linkedin.com/school/unam/",
+    "student_population": 356000,
+    "university_type": "public",
+    "language_centre": true
+  },
+  {
+    "domain": "puc.cl",
+    "name": "Pontificia Universidad Católica de Chile",
+    "linkedin_url": "https://www.linkedin.com/school/pontificia-universidad-catolica-de-chile/",
+    "student_population": 29000,
+    "university_type": "private",
+    "language_centre": true
+  }
+]
